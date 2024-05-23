@@ -20,44 +20,7 @@
       "keyword": "법무법인",
       "target_count": 30,
       "target_urls": ["https://www.daeryunlaw.com/"],
-      "disabled": false
-    }, {
-      "keyword": "명예훼손",
-      "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-detective.com/field/372"],
-      "disabled": false
-    }, {
-      "keyword": "상간녀소송",
-      "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-divorce.com/success/1101"],
-      "disabled": false
-    }, {
-      "keyword": "보이스피싱수거책",
-      "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-detective.com/success/4178"],
-      "disabled": false
-    }, {
-      "keyword": "춘천변호사",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "춘천변호사추천",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "춘천변호사상담",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "춘천법무법인",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "춘천법률사무소",
+    사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
