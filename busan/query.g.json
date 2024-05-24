@@ -20,6 +20,7 @@
       "keyword": "법무법인",
       "target_count": 30,
       "target_urls": ["https://www.daeryunlaw.com/"],
+      "disabled": false
     }, {
       "keyword": "울산변호사",
       "target_count": 10,
