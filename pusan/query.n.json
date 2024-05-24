@@ -13,12 +13,12 @@
     }, {
       "keyword": "민사전문변호사",
       "target_count": 15,
-      "target_urls": ["https://www.daeryunlaw-detective.com/"],
+      "target_urls": ["https://www.daeryunlaw-estate.com/"],
       "disabled": false
     }, {
       "keyword": "서초형사변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-detective.com/success_new/223"],
+      "target_urls": ["https://www.daeryunlaw-detective.com/success_new/213"],
       "disabled": false
     }, {
       "keyword": "평택로펌",
@@ -26,9 +26,29 @@
       "target_urls": ["https://www.daeryunlaw-estate.com/info/293"],
       "disabled": false
     }, {
-      "keyword": "강남학교폭력변호사",
+      "keyword": "인천이혼변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw.com/success_new/152"],
+      "target_urls": ["https://www.daeryunlaw-divorce.com/map/incheon"],
+      "disabled": false
+    }, {
+      "keyword": "의정부변호사상담",
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw-consulting.com/map/uijeongbu"],
+      "disabled": false
+    }, {
+      "keyword": "창원이혼전문변호사",
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw-divorce.com/map/changwon"],
+      "disabled": false
+    }, {
+      "keyword": "사기변호사",
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw-detective.com/"],
+      "disabled": false
+    }, {
+      "keyword": "의료소송",
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw-medical.com/"],
       "disabled": false
     }, {
       "keyword": "부산변호사추천",
