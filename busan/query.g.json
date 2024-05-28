@@ -22,7 +22,7 @@
       "target_urls": ["https://www.daeryunlaw.com/"],
       "disabled": false
     }, {
-      "keyword": "대전변호",
+      "keyword": "대전변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
@@ -62,7 +62,7 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "부산변호",
+      "keyword": "부산사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
