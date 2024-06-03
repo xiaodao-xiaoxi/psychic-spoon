@@ -32,14 +32,14 @@
       "target_urls": ["https://www.daeryunlaw-detective.com/success_new/373"],
       "disabled": false
     }, {
-      "keyword": "서초이혼전문변호사",
+      "keyword": "가사전문변호사",
       "target_count": 10,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-inherit.com/"],
       "disabled": false
     }, {
       "keyword": "서초이혼전문변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-discovery.com/success_new/188"],
+      "target_urls": ["https://www.daeryunlaw-divorce.com/map/seocho"],
       "disabled": false
     }, {
       "keyword": "울산법률사무소",
@@ -54,7 +54,7 @@
     }, {
       "keyword": "부산변호사",
       "target_count": 10,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw.com/map/busan2"],
       "disabled": false
     }, {
       "keyword": "서초법률사무소",
@@ -62,9 +62,9 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "인천가사전문변호사",
+      "keyword": "교통사고전문변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-inherit.com/map/incheon"],
+      "target_urls": [],
       "disabled": false
     }]
   }
