@@ -21,14 +21,14 @@
       "target_urls": ["https://www.daeryunlaw-detective.com/success_new/223"],
       "disabled": false
     }, {
-      "keyword": "순천형사소송변호사",
+      "keyword": "목포민사변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-detective.com/map/suncheon"],
+      "target_urls": ["https://www.daeryunlaw-compensation.com/map/mokpo"],
       "disabled": false
     }, {
-      "keyword": "안산형사변호사",
+      "keyword": "부산형사전문변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-detective.com/map/ansan"],
+      "target_urls": ["https://www.daeryunlaw-detective.com/map/busan2"],
       "disabled": false
     }, {
       "keyword": "이혼변호사",
@@ -36,9 +36,9 @@
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
-      "keyword": "전주형사전문변호사",
+      "keyword": "서울이혼변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-detective.com/map/jeonju"],
+      "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
       "keyword": "인천이혼전문변호사",
