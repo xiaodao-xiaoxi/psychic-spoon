@@ -2,17 +2,17 @@
     "max_page_count": 9,
     "work": [{
       "keyword": "형사전문변호사",
-      "target_count": 25,
+      "target_count": 40,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
       "keyword": "형사소송변호사",
-      "target_count": 25,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
       "keyword": "민사전문변호사",
-      "target_count": 15,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-estate.com"],
       "disabled": false
     }, {
@@ -52,22 +52,22 @@
       "disabled": false
     }, {
       "keyword": "부산변호사",
-      "target_count": 25,
+      "target_count": 20,
       "target_urls": ["https://m.blog.naver.com/shg82"],
       "disabled": false
     }, {
       "keyword": "광주변호사추천",
-      "target_count": 25,
+      "target_count": 20,
       "target_urls": ["https://m.blog.naver.com/qoalbmop"],
       "disabled": false
     }, {
       "keyword": "광주법무법인",
-      "target_count": 25,
+      "target_count": 20,
       "target_urls": ["https://m.blog.naver.com/qoalbmop"],
       "disabled": false
     }, {
       "keyword": "광주변호사",
-      "target_count": 25,
+      "target_count": 20,
       "target_urls": ["https://m.blog.naver.com/qoalbmop"],
       "disabled": true
     }]
