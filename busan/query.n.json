@@ -14,7 +14,7 @@
       "keyword": "민사전문변호사",
       "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-estate.com"],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "서초형사변호사",
       "target_count": 20,
@@ -24,7 +24,7 @@
       "keyword": "목포민사변호사",
       "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-compensation.com/map/mokpo"],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "부산형사전문변호사",
       "target_count": 20,
@@ -49,26 +49,26 @@
       "keyword": "부산변호사추천",
       "target_count": 20,
       "target_urls": ["https://m.blog.naver.com/shg82"],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "부산변호사",
       "target_count": 20,
       "target_urls": ["https://m.blog.naver.com/shg82"],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "광주변호사추천",
       "target_count": 20,
       "target_urls": ["https://m.blog.naver.com/qoalbmop"],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "광주법무법인",
       "target_count": 20,
       "target_urls": ["https://m.blog.naver.com/qoalbmop"],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "광주변호사",
       "target_count": 20,
       "target_urls": ["https://m.blog.naver.com/qoalbmop"],
-      "disabled": false
+      "disabled": true
     }]
   }
