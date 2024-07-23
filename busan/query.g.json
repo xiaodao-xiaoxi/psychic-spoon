@@ -2,13 +2,38 @@
     "max_page_count": 9,
     "max_item_count": 100,
     "work": [{
-      "keyword": "개인회생신청자격",
+      "keyword": "형사전문변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "형사사건변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "형사변호사",
       "target_count": 30,
+      "target_urls": ["https://www.daeryunlaw-detective.com/"],
+      "disabled": false
+    }, {
+      "keyword": "이혼변호사",
+      "target_count": 30,
+      "target_urls": ["https://www.daeryunlaw-divorce.com/"],
+      "disabled": false
+    }, {
+      "keyword": "이혼전문변호사",
+      "target_count": 30,
+      "target_urls": ["https://www.daeryunlaw-divorce.com/"],
+      "disabled": false
+    }, {
+      "keyword": "개인회생신청자격",
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw.com/broadcast/114"],
       "disabled": false
     }, {
       "keyword": "통매음",
-      "target_count": 30,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-assault.com/info/1620"],
       "disabled": false
     }, {
