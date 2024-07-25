@@ -46,29 +46,14 @@
       "target_urls": ["https://www.daeryunlaw-divorce.com/map/incheon"],
       "disabled": false
     }, {
-      "keyword": "부산변호사추천",
-      "target_count": 20,
-      "target_urls": ["https://m.blog.naver.com/shg82"],
-      "disabled": false
-    }, {
-      "keyword": "부산변호사",
-      "target_count": 20,
-      "target_urls": ["https://m.blog.naver.com/shg82"],
-      "disabled": false
-    }, {
-      "keyword": "광주변호사추천",
-      "target_count": 20,
-      "target_urls": ["https://m.blog.naver.com/qoalbmop"],
-      "disabled": false
-    }, {
       "keyword": "광주법무법인",
       "target_count": 20,
-      "target_urls": ["https://m.blog.naver.com/qoalbmop"],
+      "target_urls": ["https://gjseo.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "광주변호사",
       "target_count": 20,
-      "target_urls": ["https://m.blog.naver.com/qoalbmop"],
+      "target_urls": ["https://www.daeryunlaw-assault.com"],
       "disabled": false
     }]
   }
