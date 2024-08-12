@@ -2,7 +2,7 @@
     "max_page_count": 9,
     "work": [{
       "keyword": "형사전문변호사",
-      "target_count": 40,
+      "target_count": 45,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
@@ -26,7 +26,7 @@
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
-      "keyword": "교통사전문변호사",
+      "keyword": "교통사고전문변호사",
       "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
@@ -36,14 +36,9 @@
       "target_urls": ["https://www.daeryunlaw-estate.com"],
       "disabled": false
     }, {
-      "keyword": "부산형사변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-assault.com"],
-      "disabled": false
-    }, {
       "keyword": "부산형사전문변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-assault.com"],
+      "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
       "keyword": "부산명예훼손변호사",
@@ -58,17 +53,17 @@
     }, {
       "keyword": "부산마약변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-drug.com/success"],
+      "target_urls": ["https://www.daeryunlaw-drug.com/map/busan2"],
       "disabled": false
     }, {
       "keyword": "부산상간녀소송변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw.com/success/4315"],
+      "target_urls": ["https://www.daeryunlaw.com/success_new/342"],
       "disabled": false
     }, {
-      "keyword": "부산가사전문변호사",
+      "keyword": "부산변호사상담",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-inherit.com/map/busan2"],
+      "target_urls": ["https://www.daeryunlaw-assault.com/map/busan2"],
       "disabled": false
     }, {
       "keyword": "부산민사소송변호사",
@@ -76,9 +71,9 @@
       "target_urls": ["https://www.daeryunlaw-compensation.com/map/busan2"],
       "disabled": false
     }, {
-      "keyword": "부산손해배상변호사",
+      "keyword": "부산판사출신변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-compensation.com"],
+      "target_urls": ["https://www.daeryunlaw-compensation.com/lawyer"],
       "disabled": false
     }]
   }
