@@ -63,21 +63,21 @@
     }, {
       "keyword": "대구사기변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw.com/success_new/1216"],
+      "target_urls": ["https://www.daeryunlaw.com/success/4577"],
       "disabled": false
     }, {
-      "keyword": "대구강제추변호사",
+      "keyword": "대구강제추행변호사",
       "target_count": 15,
-      "target_urls": ["https://www.daeryunlaw.com/success/4294"],
+      "target_urls": ["https://www.daeryunlaw-assault.com/success/1758"],
       "disabled": false
     }, {
       "keyword": "대구건설전문변호사",
       "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-estate.com/map/daegu"],
+      "target_urls": [https://www.daeryunlaw-estate.com/success_new/1847"],
       "disabled": false
     }, {
-      "keyword": "대구상속전문변호사",
-      "target_count": 10,
+      "keyword": "대구가사전문변호사",
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-inherit.com/map/daegu"],
       "disabled": false
     }]
