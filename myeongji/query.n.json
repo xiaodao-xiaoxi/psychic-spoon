@@ -7,12 +7,12 @@
       "disabled": false
     }, {
       "keyword": "형사변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
       "keyword": "이혼전문변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
@@ -31,49 +31,49 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "부산변호사",
+      "keyword": "부산법무법인",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-estate.com"],
+      "target_urls": ["https://yeonje.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "부산형사전문변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-detective.com"],
+      "keyword": "부산학교폭력변호",
+      "target_count": 15,
+      "target_urls": ["https://www.daeryunlaw-school.com/map/busan2"],
       "disabled": false
     }, {
-      "keyword": "부산명예훼손변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw.com/success_new/1330"],
+      "keyword": "부산명도소송변호사",
+      "target_count": 15,
+      "target_urls": ["https://www.daeryunlaw-comp.com/kin/41241"],
       "disabled": false
     }, {
-      "keyword": "부산통매음변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw.com/reply/3155"],
+      "keyword": "부산상속전문변호사",
+      "target_count": 15,
+      "target_urls": ["https://www.daeryunlaw-inherit.com/map/busan2"],
       "disabled": false
     }, {
-      "keyword": "부산마약변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-drug.com/map/busan2"],
+      "keyword": "부산상속변호사",
+      "target_count": 15,
+      "target_urls": ["https://www.daeryunlaw-inherit.com/map/busan2"],
       "disabled": false
     }, {
-      "keyword": "부산상간녀소송변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw.com/success_new/342"],
+      "keyword": "부산가사전문변호사",
+      "target_count": 15,
+      "target_urls": ["https://www.daeryunlaw-inherit.com/success_new/949"],
       "disabled": false
     }, {
-      "keyword": "부산변호사상담",
-      "target_count": 20,
+      "keyword": "부산교통사고전문변호사",
+      "target_count": 15,
+      "target_urls": ["https://www.daeryunlaw-traffic.com/map/busan2"],
+      "disabled": false
+    }, {
+      "keyword": "부산사기죄변호사",
+      "target_count": 15,
+      "target_urls": ["https://www.daeryunlaw.com/success_new/1313"],
+      "disabled": false
+    }, {
+      "keyword": "부산성범죄변호사",
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-assault.com/map/busan2"],
-      "disabled": false
-    }, {
-      "keyword": "부산민사소송변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-compensation.com/map/busan2"],
-      "disabled": false
-    }, {
-      "keyword": "부산판사출신변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-compensation.com/lawyer"],
       "disabled": false
     }]
   }
