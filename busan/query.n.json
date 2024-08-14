@@ -2,32 +2,32 @@
     "max_page_count": 9,
     "work": [{
       "keyword": "형사전문변호사",
-      "target_count": 65,
+      "target_count": 60,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
       "keyword": "형사변호사",
-      "target_count": 30,
+      "target_count": 25,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     },  {
       "keyword": "이혼변호사",
-      "target_count": 30,
+      "target_count": 25,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     },  {
       "keyword": "이혼전문변호사",
-      "target_count": 65,
+      "target_count": 60,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
       "keyword": "민사전문변호사",
-      "target_count": 15,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-compensation.com"],
       "disabled": false
     }, {
       "keyword": "의료전문변호사",
-      "target_count": 15,
+      "target_count": 35,
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }, {
@@ -42,7 +42,7 @@
       "disabled": false
     }, {
       "keyword": "부산민사변호사",
-      "target_count": 15,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-compensation.com/map/busan2"],
       "disabled": false
     }, {
@@ -52,13 +52,13 @@
       "disabled": false
     }, {
       "keyword": "부동산전문변호사",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-estate.com"],
       "disabled": false
     }, {
       "keyword": "부산변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw.com/map/busan2"],
+      "target_count": 30,
+      "target_urls": ["https://www.daeryunlaw-assault.com/map/busan2"],
       "disabled": false
     }]
   }
