@@ -21,6 +21,11 @@
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
+      "keyword": "의료전문변호사",
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw-medical.com"],
+      "disabled": false
+    }, {
       "keyword": "마약전문변호사",
       "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-drug.com"],
@@ -37,27 +42,27 @@
       "disabled": false
     }, {
       "keyword": "창원이혼상담",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw.com/kin/223953"],
       "disabled": false
     }, {
       "keyword": "창원교통사고변호사",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-traffic.com/map/changwon"],
       "disabled": false
     }, {
       "keyword": "창원교통사고전문변호사",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-traffic.com/map/changwon"],
       "disabled": false
     }, {
       "keyword": "창원성추행변호사",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "창원성폭행변호사",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": [],
       "disabled": false
     }, {
