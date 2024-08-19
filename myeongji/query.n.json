@@ -68,12 +68,12 @@
     }, {
       "keyword": "부산사기죄변호사",
       "target_count": 15,
-      "target_urls": ["https://www.daeryunlaw.com/success_new/1313"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "부산성범죄변호사",
       "target_count": 15,
-      "target_urls": ["https://www.daeryunlaw-assault.com/map/busan2"],
+      "target_urls": [],
       "disabled": false
     }]
   }
