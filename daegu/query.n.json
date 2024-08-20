@@ -31,6 +31,11 @@
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
+      "keyword": "교통사고전문변호사",
+      "target_count": 30,
+      "target_urls": ["https://www.daeryunlaw-traffic.com"],
+      "disabled": false
+    }, {
       "keyword": "대구부동산변호사",
       "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-estate.com/map/daegu"],
@@ -63,7 +68,7 @@
     }, {
       "keyword": "대구건설전문변호사",
       "target_count": 15,
-      "target_urls": ["https://www.daeryunlaw-estate.com/success_new/1847"],
+      "target_urls": [],
       "disabled": false
     }]
   }
