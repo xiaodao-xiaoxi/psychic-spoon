@@ -22,7 +22,7 @@
       "disabled": false
     }, {
       "keyword": "의료전문변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }, {
@@ -32,7 +32,7 @@
       "disabled": false
     }, {
       "keyword": "교통사고전문변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
@@ -52,12 +52,12 @@
       "disabled": false
     }, {
       "keyword": "창원교통사고전문변호사",
-      "target_count": 15,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-traffic.com/map/changwon"],
       "disabled": false
     }, {
       "keyword": "창원성추행변호사",
-      "target_count": 15,
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
