@@ -26,14 +26,14 @@
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
-      "keyword": "민사전문변호사",
+      "keyword": "교통사고전문변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-compensation.com"],
+      "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "손해배상전문변호사",
+      "keyword": "의료전문변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-compensation.com"],
+      "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }, {
       "keyword": "부동산전문변호사",
@@ -101,7 +101,7 @@
       "target_urls": ["https://www.daeryunlaw-military.com"],
       "disabled": false
     }, {
-      "keyword": "군형사전문변호사",
+      "keyword": "군전문변호사",
       "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-military.com"],
       "disabled": false
