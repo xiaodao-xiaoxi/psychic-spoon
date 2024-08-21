@@ -2,7 +2,7 @@
     "max_page_count": 9,
     "work": [{
       "keyword": "형사전문변호사",
-      "target_count": 45,
+      "target_count": 50,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
@@ -74,7 +74,7 @@
       "keyword": "부산사기죄변호사",
       "target_count": 15,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "부산성범죄변호사",
       "target_count": 15,
