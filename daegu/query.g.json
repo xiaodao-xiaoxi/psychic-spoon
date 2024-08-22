@@ -3,7 +3,7 @@
     "max_item_count": 100,
     "work": [{
       "keyword": "형사전문변호사",
-      "target_count": 30,
+      "target_count": 35,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
