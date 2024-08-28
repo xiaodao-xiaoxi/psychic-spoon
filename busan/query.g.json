@@ -23,71 +23,38 @@
       "disabled": false
     }, {
       "keyword": "이혼전문변호사",
-      "target_count": 40,
+      "target_count": 45,
       "target_urls": ["https://www.daeryunlaw-divorce.com/"],
       "disabled": false
     }, {
-      "keyword": "개인회생신청자격",
+      "keyword": "마약전문변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "통매음",
+      "keyword": "마약변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "변호사추천",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw.com/"],
-      "disabled": false
-    }, {
-      "keyword": "법무법인",
-      "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw.com/"],
-      "disabled": false
-    }, {
-      "keyword": "대전변호사",
+      "target_urls": ["https://ww문",
       "target_count": 10,
       "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "광주검사출신변호사",
-      "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-military.com/success_new/757"],
-      "disabled": false
-    }, {
-      "keyword": "서초변호사추천",
-      "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-divorce.com/success_new/773"],
-      "disabled": false
-    }, {
-      "keyword": "서초이혼전문변호사",
-      "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-divorce.com/map/seocho"],
-      "disabled": false
-    }, {
-      "keyword": "울산법률사무소",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "교대형사변호사",
-      "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-detective.com/success_new/144"],
       "disabled": false
     }, {
       "keyword": "부산변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw.com/map/busan2"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "서초법률사무소",
+      "keyword": "부산법무법인",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw.com/ko/kin/369"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "교통사고전문변호사",
+      "keyword": "부산개인회생",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
