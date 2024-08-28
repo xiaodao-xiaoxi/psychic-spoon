@@ -23,18 +23,18 @@
       "disabled": false
     }, {
       "keyword": "이혼전문변호사",
-      "target_count": 30,
+      "target_count": 40,
       "target_urls": ["https://www.daeryunlaw-divorce.com/"],
       "disabled": false
     }, {
       "keyword": "개인회생신청자격",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw.com/broadcast/114"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "통매음",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-assault.com/info/1620"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "변호사추천",
