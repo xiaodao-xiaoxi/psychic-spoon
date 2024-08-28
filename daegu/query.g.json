@@ -13,7 +13,7 @@
       "disabled": false
     }, {
       "keyword": "이혼전문변호사",
-      "target_count": 30,
+      "target_count": 40,
       "target_urls": [],
       "disabled": false
     }, {
@@ -32,24 +32,19 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "대구이혼전문변호사",
-      "target_count": 20,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "대구변호사추천",
+      "keyword"사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "대구변호사상담",
+      "keyword": "대구성범죄전문변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "대구보이스피싱변호사",
+      "keyword": "대구형사전문변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-detective.com/success_new/998"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "대구로펌",
@@ -62,17 +57,17 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "대구검사출신변호사",
+      "keyword": "대구변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "대구강제추행변호사",
+      "keyword": "대구법무법인",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "대구건설전문변호사",
+      "keyword": "대구이혼상담",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
