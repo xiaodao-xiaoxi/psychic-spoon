@@ -59,16 +59,16 @@
       "keyword": "대구가사전문변호사",
       "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-inherit.com/success_new/775"],
-      "disabled": true
+      "disabled": false
     }, {
-      "keyword": "대구민사전문변호사",
+      "keyword": "산재변호사",
       "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-compensation.com/map/daegu"],
-      "disabled": true
+      "disabled": false
     }, {
-      "keyword": "대구건설전문변호사",
+      "keyword": "산재전문변호사",
       "target_count": 15,
       "target_urls": [],
-      "disabled": true
+      "disabled": false
     }]
   }
