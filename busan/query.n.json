@@ -55,10 +55,5 @@
       "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-estate.com"],
       "disabled": false
-    }, {
-      "keyword": "부산변호사",
-      "target_count": 30,
-      "target_urls": [],
-      "disabled": false
     }]
   }
