@@ -46,14 +46,14 @@
       "target_urls": ["https://www.daeryunlaw.com/kin/223953"],
       "disabled": false
     }, {
-      "keyword": "창원교통사고변호사",
+      "keyword": "계약서검토",
       "target_count": 15,
-      "target_urls": ["https://www.daeryunlaw-traffic.com/map/changwon"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "창원교통사고전문변호사",
+      "keyword": "도산전문변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-traffic.com/map/changwon"],
+      "target_urls": [],
       "disabled": false
     },{
       "keyword": "창원이혼변호사",
