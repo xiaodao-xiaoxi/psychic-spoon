@@ -38,35 +38,35 @@
     }, {
       "keyword": "대구부동산변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-estate.com/map/daegu"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "대구법무법인",
+      "keyword": "대구변호사추천",
       "target_count": 10,
-      "target_urls": ["https://daegu.daeryunlaw.com"],
-      "disabled": false
-    }, {
-      "keyword": "대구학교폭력변호사",
-      "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-school.com/map/daegu"],
-      "disabled": false
-    }, {
-      "keyword": "대구음주운전변호사",
-      "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-traffic.com/map/daegu"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "대구가사전문변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "진주변호사추천",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-inherit.com/success_new/775"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "산재변호사",
+      "keyword": "진주변호사상담",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "포항법률사무소",
       "target_count": 15,
-      "target_urls": ["https://www.daeryunlaw-compensation.com/map/daegu"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "산재전문변호사",
+      "keyword": "통영부동산변호사",
       "target_count": 15,
       "target_urls": [],
       "disabled": false
