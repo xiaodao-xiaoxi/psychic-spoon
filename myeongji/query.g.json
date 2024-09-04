@@ -23,6 +23,16 @@
       "disabled": false
     },{
       "keyword": "부산변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "부산변호사추천",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "부산법무법인",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
@@ -32,17 +42,17 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "부산이혼변호사",
+      "keyword": "부산로펌",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "부산성추행변호사",
+      "keyword": "부산법률상담",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "부산사기변호사",
+      "keyword": "부산형사소송변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
@@ -57,22 +67,12 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "부산법률상담",
+      "keyword": "부산사기변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "부산이혼상담",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "부산로펌",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "부산변호사추천",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
