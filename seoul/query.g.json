@@ -28,37 +28,37 @@
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
-      "keyword": "기업자문변호사",
-      "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-comp.com"],
-      "disabled": true
+      "keyword": "서울변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
     }, {
       "keyword": "기업변호사",
       "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-comp.com"],
-      "disabled": true
-    }, {
-      "keyword": "성범죄전문변호사",
-      "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-assault.com"],
       "disabled": false
     }, {
-      "keyword": "마약변호사",
-      "target_count": 30,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "법무법인",
+      "keyword": "서울형사전문변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "교대형사변호사",
+      "keyword": "강남법률상담",
       "target_count": 30,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "서울형사변호사",
+      "keyword": "강남법무법인",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "서울변호사",
+      "target_count": 30,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "서초로펌",
       "target_count": 30,
       "target_urls": [],
       "disabled": false
