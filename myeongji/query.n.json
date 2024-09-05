@@ -36,9 +36,9 @@
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }, {
-      "keyword": "부산법무법인",
+      "keyword": "부산법률상담",
       "target_count": 20,
-      "target_urls": ["https://yeonje.daeryunlaw.com"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "부산학교폭력변호사",
