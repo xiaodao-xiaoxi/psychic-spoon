@@ -46,18 +46,13 @@
       "target_urls": ["https://www.daeryunlaw-school.com/map/busan2"],
       "disabled": false
     }, {
-      "keyword": "★",
-      "target_count": 15,
+      "keyword": "마약류관리법",
+      "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "★",
-      "target_count": 15,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "★",
-      "target_count": 15,
+      "keyword": "형사사건변호사",
+      "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
@@ -71,7 +66,7 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "★",
+      "keyword": "노동전문변호사",
       "target_count": 15,
       "target_urls": [],
       "disabled": true
