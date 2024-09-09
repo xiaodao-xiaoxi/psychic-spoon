@@ -36,8 +36,8 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "대구부동산변호사",
-      "target_count": 20,
+      "keyword": "대구검사출신변호사",
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
@@ -46,29 +46,29 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "대구가사전문변호사",
+      "keyword": "대구이혼전문변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "진주변호사추천",
-      "target_count": 10,
-      "target_urls": [],
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw-compensation.com/success_new/2644"],
       "disabled": false
     }, {
-      "keyword": "진주변호사상담",
+      "keyword": "대구변호사사무실",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "포항법률사무소",
+      "keyword": "대구법률상담",
       "target_count": 15,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "통영부동산변호사",
+      "keyword": "대구이혼상담",
       "target_count": 15,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-divorce.com/map/daegumain"],
       "disabled": false
     }]
   }
