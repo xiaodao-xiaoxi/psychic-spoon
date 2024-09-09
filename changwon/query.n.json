@@ -36,32 +36,32 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "창원가사전문변호사",
+      "keyword": "음주운전전문변호사",
       "target_count": 20,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "창원이혼상담",
+      "keyword": "창원사기죄변호사",
       "target_count": 15,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-detective.com/reply/3417"],
       "disabled": false
     }, {
       "keyword": "계약서검토",
-      "target_count": 15,
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "도산전문변호사",
+      "keyword": "창원판사출신변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     },{
       "keyword": "창원형사변호사",
-      "target_count": 20,
+      "target_count": 25,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "창원법률사무소",
+      "keyword": "창원형사소송변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
