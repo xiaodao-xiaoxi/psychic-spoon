@@ -21,13 +21,13 @@
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
-      "keyword": "마약전문변호사",
+      "keyword": "마약변호사",
       "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
-      "keyword": "교통사고전문변호사",
-      "target_count": 40,
+      "keyword": "음주운전전문변호사",
+      "target_count": 35,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
@@ -37,26 +37,26 @@
       "disabled": false
     }, {
       "keyword": "광주변호사",
-      "target_count": 20,
-      "target_urls": [],
+      "target_count": 25,
+      "target_urls": ["https://gjdong.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "부산학교폭력변호사",
+      "keyword": "부산학교폭력전문변호사",
       "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-school.com/map/busan2"],
       "disabled": false
     }, {
-      "keyword": "부산명도소송변호사",
+      "keyword": "★",
       "target_count": 15,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "부산상속전문변호사",
+      "keyword": "★",
       "target_count": 15,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "부산상속변호사",
+      "keyword": "★",
       "target_count": 15,
       "target_urls": [],
       "disabled": false
@@ -67,11 +67,11 @@
       "disabled": false
     }, {
       "keyword": "부산교통사고전문변호사",
-      "target_count": 15,
+      "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "부산사기죄변호사",
+      "keyword": "★",
       "target_count": 15,
       "target_urls": [],
       "disabled": true
