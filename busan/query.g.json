@@ -2,59 +2,54 @@
     "max_page_count": 9,
     "max_item_count": 100,
     "work": [{
-      "keyword": "형사전문변호사",
-      "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-detective.com"],
-      "disabled": false
-    }, {
-      "keyword": "형사소송변호사",
-      "target_count": 20,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "형사변호사",
-      "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-detective.com"],
-      "disabled": false
-    }, {
-      "keyword": "이혼변호사",
-      "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-divorce.com/"],
-      "disabled": false
-    }, {
-      "keyword": "이혼전문변호사",
-      "target_count": 45,
-      "target_urls": ["https://www.daeryunlaw-divorce.com/"],
-      "disabled": false
-    }, {
-      "keyword": "마약전문변호사",
-      "target_count": 17,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "마약변호사",
-      "target_count": 15,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "변호사추천",
+      "keyword": "물피도주",
       "target_count": 10,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-traffic.com/lawInfo_new/3220"],
       "disabled": false
     }, {
-      "keyword": "부산변호사",
-      "target_count": 20,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "부산법무법인",
+      "keyword": "통장대여처벌",
       "target_count": 10,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-detective.com/lawInfo_new/1508"],
       "disabled": false
     }, {
-      "keyword": "부산변호사상담",
+      "keyword": "친권양육권",
       "target_count": 10,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-divorce.com/lawInfo_new/436"],
+      "disabled": false
+    }, {
+      "keyword": "군인징계",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw.com/field/275"],
+      "disabled": false
+    }, {
+      "keyword": "사기전문변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw.com/success/3589"],
+      "disabled": false
+    }, {
+      "keyword": "탈세처벌",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-tax.com/info/579"],
+      "disabled": false
+    }, {
+      "keyword": "광교이혼전문변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-divorce.com/map/suwon"],
+      "disabled": false
+    }, {
+      "keyword": "감금죄",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-detective.com/lawInfo_new/2547"],
+      "disabled": false
+    }, {
+      "keyword": "노동변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-labor.com"],
+      "disabled": false
+    }, {
+      "keyword": "사기변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw.com/success_new/1782"],
       "disabled": false
     }]
   }
