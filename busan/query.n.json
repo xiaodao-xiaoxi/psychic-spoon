@@ -38,7 +38,7 @@
     }, {
       "keyword": "변호사",
       "target_count": 20,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "부산민사변호사",
