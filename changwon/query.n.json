@@ -51,9 +51,9 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "창원판사출신변호사",
-      "target_count": 10,
-      "target_urls": [],
+      "keyword": "변호사",
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     },{
       "keyword": "창원형사변호사",
@@ -62,7 +62,7 @@
       "disabled": false
     }, {
       "keyword": "창원형사소송변호사",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }]
