@@ -53,12 +53,12 @@
     }, {
       "keyword": "서울변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-inherit.com"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "춘천변호사상담",
       "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-consulting.com/map/chuncheon"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "마약전문변호사",
@@ -81,9 +81,9 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "상속전문변호사",
-      "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-inherit.com"],
+      "keyword": "변호사",
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "교통사고전문변호사",
