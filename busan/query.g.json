@@ -3,18 +3,18 @@
     "max_item_count": 100,
     "work": [{
       "keyword": "형사전문변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
-      "keyword": "형사사건변호사",
+      "keyword": "형사소송변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "형사변호사",
       "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-detective.com/"],
+      "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
       "keyword": "이혼변호사",
@@ -28,12 +28,12 @@
       "disabled": false
     }, {
       "keyword": "마약전문변호사",
-      "target_count": 20,
+      "target_count": 17,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "마약변호사",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": [],
       "disabled": false
     }, {
