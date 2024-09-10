@@ -26,8 +26,8 @@
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
-      "keyword": "음주운전전문변호사",
-      "target_count": 35,
+      "keyword": "교통사고전문변호사",
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
@@ -42,17 +42,17 @@
       "disabled": false
     }, {
       "keyword": "부산학교폭력전문변호사",
-      "target_count": 15,
+      "target_count": 25,
       "target_urls": ["https://www.daeryunlaw-school.com/map/busan2"],
       "disabled": false
     }, {
       "keyword": "마약류관리법",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "형사사건변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": [],
       "disabled": false
     }, {
