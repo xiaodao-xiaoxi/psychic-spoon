@@ -71,18 +71,13 @@
       "target_urls": ["https://www.daeryunlaw-iprs.com"],
       "disabled": false
     }, {
-      "keyword": "M&A전문변호사",
-      "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-mergers.com"],
-      "disabled": false
-    }, {
       "keyword": "서울변호사사무실",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "변호사",
-      "target_count": 30,
+      "target_count": 40,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
