@@ -36,13 +36,13 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "대구검사출신변호사",
+      "keyword": "대구판사출신변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "대구변호사추천",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": [],
       "disabled": false
     }, {
@@ -62,12 +62,12 @@
       "disabled": false
     }, {
       "keyword": "대구법률상담",
-      "target_count": 25,
+      "target_count": 35,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "변호사",
-      "target_count": 25,
+      "target_count": 35,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }]
