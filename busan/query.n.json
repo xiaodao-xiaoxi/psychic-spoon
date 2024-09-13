@@ -42,17 +42,17 @@
       "disabled": false
     }, {
       "keyword": "부산민사변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "마약전문변호사",
-      "target_count": 25,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
       "keyword": "부동산전문변호사",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-estate.com"],
       "disabled": false
     }]
