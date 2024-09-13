@@ -41,23 +41,18 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "대구변호사추천",
-      "target_count": 5,
-      "target_urls": [],
-      "disabled": false
-    }, {
       "keyword": "대구이혼전문변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "진주변호사추천",
-      "target_count": 20,
+      "target_count": 25,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "대구변호사사무실",
-      "target_count": 25,
+      "target_count": 15,
       "target_urls": [],
       "disabled": false
     }, {
@@ -67,7 +62,7 @@
       "disabled": false
     }, {
       "keyword": "변호사",
-      "target_count": 35,
+      "target_count": 40,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }]
