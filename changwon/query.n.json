@@ -41,9 +41,9 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "창원사기죄변호사",
+      "keyword": "전주음주운전변호사사",
       "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-detective.com/reply/3417"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "변호사상담",
@@ -56,13 +56,13 @@
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     },{
-      "keyword": "창원형사변호사",
-      "target_count": 25,
+      "keyword": "창원마약변호사",
+      "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "창원형사소송변호사",
-      "target_count": 5,
+      "keyword": "창원검사출신변호사",
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }]
