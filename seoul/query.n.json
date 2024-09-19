@@ -66,14 +66,14 @@
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
-      "keyword": "지식재산권전문변호사",
-      "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-iprs.com"],
+      "keyword": "청주이혼전문변호사",
+      "target_count": 15,
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "서울변호사사무실",
+      "keyword": "청주형사전문변호사",
       "target_count": 20,
-      "target_urls": [],
+      "target_urls": ["https://cheongju.daeryunlaw.com/lawyer"],
       "disabled": false
     }, {
       "keyword": "변호사",
@@ -87,7 +87,7 @@
       "disabled": false
     }, {
       "keyword": "스포츠전문변호사",
-      "target_count": 5,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-entertainment.com"],
       "disabled": false
     }, {
@@ -96,9 +96,9 @@
       "target_urls": ["https://www.daeryunlaw-military.com"],
       "disabled": false
     }, {
-      "keyword": "대전사기변호사",
+      "keyword": "청주로펌",
       "target_count": 15,
-      "target_urls": ["https://www.daeryunlaw.com/success_new/1380"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "이혼소송변호사",
@@ -107,18 +107,8 @@
       "disabled": false
     }, {
       "keyword": "안양상속전문변호사",
-      "target_count": 10,
+      "target_count": 25,
       "target_urls": ["https://www.daeryunlaw-inherit.com/map/anyang"],
-      "disabled": false
-    },  {
-      "keyword": "회계감리",
-      "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-audit.com"],
-      "disabled": false
-    },  {
-      "keyword": "서울법무법인",
-      "target_count": 15,
-      "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }]
   }
