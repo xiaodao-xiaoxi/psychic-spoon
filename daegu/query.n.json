@@ -36,7 +36,7 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "대구성추행변호사",
+      "keyword": "대구교통사고전문변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
@@ -46,7 +46,7 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "대구검사출신변호사",
+      "keyword": "부천이혼전문변호사",
       "target_count": 15,
       "target_urls": [],
       "disabled": false
@@ -56,9 +56,9 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "공정거래변호사",
+      "keyword": "성남로펌",
       "target_count": 25,
-      "target_urls": [],
+      "target_urls": ["https://sungnam.daeryunlaw.com/strength"],
       "disabled": false
     }, {
       "keyword": "변호사",
