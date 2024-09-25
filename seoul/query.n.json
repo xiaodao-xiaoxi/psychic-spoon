@@ -36,7 +36,7 @@
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }, {
-      "keyword": "부동산전문변호사",
+      "keyword": "건설전문변호사",
       "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-estate.com"],
       "disabled": false
@@ -52,7 +52,7 @@
       "disabled": false
     }, {
       "keyword": "서울변호사",
-      "target_count": 10,
+      "target_count": 15,
       "target_urls": [],
       "disabled": false
     }, {
