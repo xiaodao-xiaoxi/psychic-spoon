@@ -22,7 +22,7 @@
       "disabled": false
     }, {
       "keyword": "마약변호사",
-      "target_count": 25,
+      "target_count": 35,
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
@@ -32,7 +32,7 @@
       "disabled": false
     }, {
       "keyword": "의료전문변호사",
-      "target_count": 30,
+      "target_count": 25,
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }, {
@@ -47,27 +47,27 @@
       "disabled": false
     }, {
       "keyword": "마약류관리법",
-      "target_count": 35,
+      "target_count": 30,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "형사사건변호사",
-      "target_count": 25,
+      "target_count": 30,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "부산성범죄변호사",
-      "target_count": 30,
+      "target_count": 40,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "부산교통사고전문변호사",
-      "target_count": 30,
+      "target_count": 40,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "부산마약변호사",
-      "target_count": 25,
+      "target_count": 40,
       "target_urls": [],
       "disabled": true
     }]
