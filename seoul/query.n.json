@@ -97,17 +97,17 @@
       "disabled": false
     }, {
       "keyword": "서울변호사추천",
-      "target_count": 15,
+      "target_count": 35,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "이혼소송변호사",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
       "keyword": "안양상속전문변호사",
-      "target_count": 25,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-inherit.com/map/anyang"],
       "disabled": false
     }]
