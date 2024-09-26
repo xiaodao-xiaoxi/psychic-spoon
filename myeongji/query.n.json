@@ -17,7 +17,7 @@
       "disabled": false
     }, {
       "keyword": "이혼변호사",
-      "target_count": 25,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
@@ -47,7 +47,7 @@
       "disabled": false
     }, {
       "keyword": "마약류관리법",
-      "target_count": 30,
+      "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
@@ -64,11 +64,11 @@
       "keyword": "부산교통사고전문변호사",
       "target_count": 30,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "부산마약변호사",
       "target_count": 20,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }]
   }
