@@ -59,11 +59,11 @@
       "keyword": "원주이혼전문변호사",
       "target_count": 5,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "의정부성범죄전문변호사",
       "target_count": 20,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }]
   }
