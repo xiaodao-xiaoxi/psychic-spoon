@@ -2,12 +2,12 @@
     "max_page_count": 9,
     "work": [{
       "keyword": "이혼전문변호사",
-      "target_count": 40,
+      "target_count": 35,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
       "keyword": "이혼변호사",
-      "target_count": 40,
+      "target_count": 35,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
@@ -17,7 +17,7 @@
       "disabled": true
     }, {
       "keyword": "형사전문변호사",
-      "target_count": 45,
+      "target_count": 40,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
@@ -59,7 +59,7 @@
       "keyword": "춘천변호사상담",
       "target_count": 10,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "마약전문변호사",
       "target_count": 20,
@@ -69,7 +69,7 @@
       "keyword": "청주이혼전문변호사",
       "target_count": 5,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "서울로펌",
       "target_count": 10,
@@ -89,7 +89,7 @@
       "keyword": "스포츠전문변호사",
       "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-entertainment.com"],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "군전문변호사",
       "target_count": 10,
@@ -97,7 +97,7 @@
       "disabled": false
     }, {
       "keyword": "서울변호사추천",
-      "target_count": 35,
+      "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
@@ -109,6 +109,6 @@
       "keyword": "안양상속전문변호사",
       "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-inherit.com/map/anyang"],
-      "disabled": false
+      "disabled": true
     }]
   }
