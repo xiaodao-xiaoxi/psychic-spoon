@@ -17,7 +17,7 @@
       "disabled": true
     }, {
       "keyword": "형사전문변호사",
-      "target_count": 50,
+      "target_count": 45,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
@@ -62,22 +62,22 @@
       "disabled": false
     }, {
       "keyword": "마약전문변호사",
-      "target_count": 30,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
       "keyword": "청주이혼전문변호사",
-      "target_count": 15,
+      "target_count": 5,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "서울로펌",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "변호사",
-      "target_count": 45,
+      "target_count": 70,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
@@ -87,7 +87,7 @@
       "disabled": false
     }, {
       "keyword": "스포츠전문변호사",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-entertainment.com"],
       "disabled": false
     }, {
