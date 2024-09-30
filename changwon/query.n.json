@@ -56,14 +56,14 @@
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     },{
-      "keyword": "원주이혼전문변호사",
-      "target_count": 5,
+      "keyword": "대전보이스피싱변호사",
+      "target_count": 15,
       "target_urls": [],
-      "disabled": true
+      "disabled": false
     }, {
-      "keyword": "의정부성범죄전문변호사",
+      "keyword": "대전교통사고변호사",
       "target_count": 20,
       "target_urls": [],
-      "disabled": true
+      "disabled": false
     }]
   }
