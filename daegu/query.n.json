@@ -36,17 +36,12 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "대구교통사고전문변호사",
+      "keyword": "춘천변호사추천",
       "target_count": 10,
-      "target_urls": [],
-      "disabled": true
-    }, {
-      "keyword": "대구이혼전문변호사",
-      "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "부천이혼전문변호사",
+      "keyword": "보이스피싱민사소송",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
@@ -56,9 +51,9 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "성남로펌",
+      "keyword": "데이트폭력처벌",
       "target_count": 20,
-      "target_urls": ["https://sungnam.daeryunlaw.com/strength"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "변호사",
