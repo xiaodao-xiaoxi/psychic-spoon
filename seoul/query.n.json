@@ -51,11 +51,6 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "서울변호사",
-      "target_count": 15,
-      "target_urls": [],
-      "disabled": false
-    }, {
       "keyword": "춘천변호사상담",
       "target_count": 10,
       "target_urls": [],
@@ -66,12 +61,12 @@
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
-      "keyword": "청주이혼전문변호사",
-      "target_count": 5,
+      "keyword": "천안상속변호사",
+      "target_count": 10,
       "target_urls": [],
-      "disabled": true
+      "disabled": false
     }, {
-      "keyword": "서울로펌",
+      "keyword": "수원아동학대변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
@@ -86,17 +81,17 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "스포츠전문변호사",
+      "keyword": "엔터테인먼트변호사",
       "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-entertainment.com"],
-      "disabled": true
+      "disabled": false
     }, {
       "keyword": "군전문변호사",
       "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-military.com"],
       "disabled": false
     }, {
-      "keyword": "서울변호사추천",
+      "keyword": "교대법무법인",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
