@@ -44,7 +44,7 @@
       "keyword": "창원이혼상담",
       "target_count": 10,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "변호사상담",
       "target_count": 20,
@@ -52,18 +52,18 @@
       "disabled": false
     }, {
       "keyword": "변호사",
-      "target_count": 60,
+      "target_count": 80,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     },{
       "keyword": "대전보이스피싱변호사",
       "target_count": 15,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "대전교통사고변호사",
       "target_count": 20,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }]
   }
