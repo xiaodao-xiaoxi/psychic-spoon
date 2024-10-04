@@ -69,10 +69,10 @@
       "keyword": "수원아동학대변호사",
       "target_count": 10,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "변호사",
-      "target_count": 70,
+      "target_count": 90,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
@@ -86,7 +86,7 @@
       "target_urls": ["https://www.daeryunlaw-entertainment.com"],
       "disabled": false
     }, {
-      "keyword": "군전문변호사",
+      "keyword": "군변호사",
       "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-military.com"],
       "disabled": false
@@ -94,7 +94,7 @@
       "keyword": "교대법무법인",
       "target_count": 20,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "이혼소송변호사",
       "target_count": 10,
