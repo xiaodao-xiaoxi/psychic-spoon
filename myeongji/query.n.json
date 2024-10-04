@@ -37,7 +37,7 @@
       "disabled": false
     }, {
       "keyword": "변호사",
-      "target_count": 75,
+      "target_count": 90,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
@@ -54,16 +54,16 @@
       "keyword": "부산성범죄변호사",
       "target_count": 30,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "부산교통사고전문변호사",
       "target_count": 30,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "부산마약변호사",
       "target_count": 20,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }]
   }
