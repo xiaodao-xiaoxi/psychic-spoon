@@ -39,25 +39,25 @@
       "keyword": "춘천변호사추천",
       "target_count": 10,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "보이스피싱민사소송",
       "target_count": 20,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "대구변호사사무실",
       "target_count": 20,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "데이트폭력처벌",
-      "target_count": 20,
+      "target_count": 5,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "변호사",
-      "target_count": 70,
+      "target_count": 90,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }]
