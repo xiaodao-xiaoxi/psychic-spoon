@@ -21,6 +21,16 @@
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
+      "keyword": "의료변호사",
+      "target_count": 5,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "마약변호사",
+      "target_count": 5,
+      "target_urls": [],
+      "disabled": false
+    }, {
       "keyword": "법률상담",
       "target_count": 10,
       "target_urls": [],
