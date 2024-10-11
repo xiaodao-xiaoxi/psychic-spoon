@@ -61,9 +61,9 @@
       "target_urls": [],
       "disabled": true
     }, {
-      "keyword": "https://www.daeryunlaw-divorce.com/info/1624",
+      "keyword": "이혼전문법률사무소",
       "target_count": 20,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-divorce.com/info/1624"],
       "disabled": false
     }]
   }
