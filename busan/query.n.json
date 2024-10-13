@@ -7,7 +7,7 @@
       "disabled": false
     }, {
       "keyword": "형사변호사",
-      "target_count": 25,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     },  {
@@ -27,12 +27,12 @@
       "disabled": false
     }, {
       "keyword": "의료전문변호사",
-      "target_count": 30,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }, {
       "keyword": "형사소송변호사",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
@@ -46,7 +46,7 @@
       "target_urls": [],
       "disabled": true
     }, {
-      "keyword": "마약전문변호사",
+      "keyword": "마약변호사",
       "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
