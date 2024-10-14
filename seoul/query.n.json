@@ -37,7 +37,7 @@
       "disabled": false
     }, {
       "keyword": "건설전문변호사",
-      "target_count": 15,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-estate.com"],
       "disabled": false
     }, {
@@ -91,10 +91,10 @@
       "target_urls": ["https://www.daeryunlaw-military.com"],
       "disabled": false
     }, {
-      "keyword": "교대법무법인",
+      "keyword": "법무법인",
       "target_count": 20,
       "target_urls": [],
-      "disabled": true
+      "disabled": false
     }, {
       "keyword": "이혼소송변호사",
       "target_count": 10,
