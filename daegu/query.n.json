@@ -7,7 +7,7 @@
       "disabled": false
     }, {
       "keyword": "형사변호사",
-      "target_count": 15,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
@@ -17,28 +17,28 @@
       "disabled": false
     }, {
       "keyword": "이혼변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
       "keyword": "의료전문변호사",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }, {
       "keyword": "마약전문변호사",
-      "target_count": 25,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
       "keyword": "교통사고전문변호사",
-      "target_count": 30,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "춘천변호사추천",
+      "keyword": "이혼전문법률사무소",
       "target_count": 10,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-divorce.com/info/1624"],
       "disabled": true
     }, {
       "keyword": "보이스피싱민사소송",
