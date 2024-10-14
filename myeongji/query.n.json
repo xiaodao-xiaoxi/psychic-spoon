@@ -32,7 +32,7 @@
       "disabled": false
     }, {
       "keyword": "의료전문변호사",
-      "target_count": 25,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }, {
@@ -56,10 +56,10 @@
       "target_urls": [],
       "disabled": true
     }, {
-      "keyword": "부산교통사고전문변호사",
+      "keyword": "이혼전문법률사무소",
       "target_count": 30,
-      "target_urls": [],
-      "disabled": true
+      "target_urls": ["https://www.daeryunlaw-divorce.com/info/1624"],
+      "disabled": false
     }, {
       "keyword": "부산마약변호사",
       "target_count": 20,
