@@ -43,22 +43,22 @@
     }, {
       "keyword": "구미변호사",
       "target_count": 10,
-      "target_urls": [],
+      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "마약변호사",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
-      "keyword": "부산마약변호사",
+      "keyword": "군형사변호사",
       "target_count": 5,
-      "target_urls": [],
-      "disabled": true
+      "target_urls": ["https://www.daeryunlaw-military.com"],
+      "disabled": false
     }, {
-      "keyword": "부동산전문변호사",
+      "keyword": "산재변호사",
       "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-estate.com"],
+      "target_urls": ["https://www.daeryunlaw-labor.com"],
       "disabled": false
     }]
   }
