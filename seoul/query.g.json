@@ -38,22 +38,22 @@
       "target_urls": ["https://www.daeryunlaw-comp.com"],
       "disabled": false
     }, {
-      "keyword": "서울형사전문변호사",
-      "target_count": 10,
+      "keyword": "변호사",
+      "target_count": 50,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "강남법률상담",
+      "keyword": "서초변호사",
       "target_count": 30,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "강남법무법인",
-      "target_count": 10,
+      "keyword": "법무법인",
+      "target_count": 30,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "서울변호사",
+      "keyword": "변호사상담",
       "target_count": 30,
       "target_urls": [],
       "disabled": false
