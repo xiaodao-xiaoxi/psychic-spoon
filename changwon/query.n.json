@@ -32,13 +32,18 @@
       "disabled": false
     }, {
       "keyword": "교통사고변호사",
-      "target_count": 15,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
       "keyword": "음주운전전문변호사",
       "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
+      "disabled": false
+    }, {
+      "keyword": "포항변호사",
+      "target_count": 20,
+      "target_urls": ["https://pohang.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "조세변호사",
@@ -57,12 +62,12 @@
       "disabled": false
     },{
       "keyword": "행정변호사",
-      "target_count": 15,
+      "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "이혼전문법률사무소",
-      "target_count": 30,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-divorce.com/info/1624"],
       "disabled": false
     }]
