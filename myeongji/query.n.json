@@ -51,19 +51,19 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "부산성범죄변호사",
+      "keyword": "전주변호사",
       "target_count": 30,
       "target_urls": [],
-      "disabled": true
+      "disabled": false
     }, {
       "keyword": "이혼전문법률사무소",
       "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-divorce.com/info/1624"],
       "disabled": false
     }, {
-      "keyword": "부산마약변호사",
+      "keyword": "부산법무법인",
       "target_count": 20,
-      "target_urls": [],
-      "disabled": true
+      "target_urls": ["https://myeongji.daeryunlaw.com"],
+      "disabled": false
     }]
   }
