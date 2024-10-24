@@ -31,9 +31,9 @@
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
-      "keyword": "교통사고전문변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-traffic.com"],
+      "keyword": "김천변호사",
+      "target_count": 10,
+      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "이혼전문법률사무소",
@@ -52,7 +52,7 @@
       "disabled": false
     }, {
       "keyword": "학폭변호사",
-      "target_count": 15,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-school.com"],
       "disabled": false
     }, {
