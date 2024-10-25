@@ -46,28 +46,28 @@
       "target_urls": ["https://pohang.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "조세변호사",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
       "keyword": "변호사상담",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "변호사",
-      "target_count": 80,
+      "target_count": 90,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     },{
+      "keyword": "법무법인",
+      "target_count": 30,
+      "target_urls": [],
+      "disabled": false
+    },{
       "keyword": "행정변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "이혼법률사무소",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-divorce.com/info/1624"],
       "disabled": false
     }]
