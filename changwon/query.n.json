@@ -26,9 +26,9 @@
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }, {
-      "keyword": "마약전문변호사",
+      "keyword": "전주변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-drug.com"],
+      "target_urls": ["https://jeonju.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "교통사고변호사",
@@ -63,7 +63,7 @@
     },{
       "keyword": "행정변호사",
       "target_count": 30,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-administration.com"],
       "disabled": false
     }, {
       "keyword": "이혼법률사무소",
