@@ -41,9 +41,9 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "의정부변호사",
+      "keyword": "전주변호사",
       "target_count": 15,
-      "target_urls": [],
+      "target_urls": ["https://jeonju.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "변호사",
