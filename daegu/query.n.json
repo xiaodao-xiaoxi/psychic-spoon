@@ -36,6 +36,11 @@
       "target_urls": ["https://yeouido.daeryunlaw.com"],
       "disabled": false
     }, {
+      "keyword": "구미변호사",
+      "target_count": 10,
+      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
+      "disabled": false
+    }, {
       "keyword": "이혼전문법률사무소",
       "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-divorce.com/info/1624"],
