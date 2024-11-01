@@ -31,11 +31,6 @@
       "target_urls": ["https://jeonju.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "교통사고변호사",
-      "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-traffic.com"],
-      "disabled": false
-    }, {
       "keyword": "음주운전전문변호사",
       "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
