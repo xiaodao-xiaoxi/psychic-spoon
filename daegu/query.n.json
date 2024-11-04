@@ -2,7 +2,7 @@
     "max_page_count": 9,
     "work": [{
       "keyword": "형사전문변호사",
-      "target_count": 30,
+      "target_count": 35,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
@@ -12,7 +12,7 @@
       "disabled": false
     }, {
       "keyword": "이혼전문변호사",
-      "target_count": 30,
+      "target_count": 40,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
@@ -36,12 +36,12 @@
       "target_urls": ["https://yeouido.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "구미변호사",
-      "target_count": 10,
-      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
+      "keyword": "전주변호사",
+      "target_count": ,
+      "target_urls": ["https://jeonju.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "이혼전문법률사무소",
+      "keyword": "이혼소송변호사",
       "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-divorce.com/info/1624"],
       "disabled": true
@@ -52,12 +52,12 @@
       "disabled": false
     }, {
       "keyword": "포항변호사",
-      "target_count": 15,
+      "target_count": 20,
       "target_urls": ["https://pohang.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "학폭변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-school.com"],
       "disabled": false
     }, {
