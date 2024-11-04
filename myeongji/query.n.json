@@ -43,7 +43,7 @@
     }, {
       "keyword": "마약류관리법",
       "target_count": 20,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-detective.com/field_new/1753"],
       "disabled": false
     }, {
       "keyword": "형사사건변호사",
@@ -61,9 +61,9 @@
       "target_urls": ["https://www.daeryunlaw-detective.com/info/1608"],
       "disabled": false
     }, {
-      "keyword": "부산변호사",
+      "keyword": "포항변호사",
       "target_count": 20,
-      "target_urls": ["https://myeongji.daeryunlaw.com"],
+      "target_urls": ["https://pohang.daeryunlaw.com"],
       "disabled": false
     }]
   }
