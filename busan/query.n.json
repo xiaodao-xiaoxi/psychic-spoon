@@ -26,7 +26,7 @@
       "target_urls": ["https://www.daeryunlaw-divorce.com/info/1624"],
       "disabled": false
     }, {
-      "keyword": "의료변호사",
+      "keyword": "의료전문변호사",
       "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
@@ -41,9 +41,9 @@
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "구미변호사",
+      "keyword": "행정변호사",
       "target_count": 5,
-      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
+      "target_urls": ["https://www.daeryunlaw-administration.com"],
       "disabled": false
     }, {
       "keyword": "마약변호사",
@@ -56,7 +56,7 @@
       "target_urls": ["https://jeonju.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "노동변호사",
+      "keyword": "산재변호사",
       "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-labor.com"],
       "disabled": false
