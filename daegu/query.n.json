@@ -41,19 +41,19 @@
       "target_urls": ["https://jeonju.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "이혼소송변호사",
+      "keyword": "법무법인",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-divorce.com/info/1624"],
-      "disabled": true
+      "target_urls": [],
+      "disabled": false
     }, {
       "keyword": "행정변호사",
       "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-administration.com"],
       "disabled": false
     }, {
-      "keyword": "포항변호사",
+      "keyword": "학폭전담변호사",
       "target_count": 20,
-      "target_urls": ["https://pohang.daeryunlaw.com"],
+      "target_urls": ["https://www.daeryunlaw-school.com"],
       "disabled": false
     }, {
       "keyword": "학폭변호사",
