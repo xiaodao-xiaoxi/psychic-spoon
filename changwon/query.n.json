@@ -36,14 +36,14 @@
       "target_urls": ["https://www.daeryunlaw-assault.com"],
       "disabled": false
     }, {
-      "keyword": "포항변호사",
-      "target_count": 25,
-      "target_urls": ["https://pohang.daeryunlaw.com"],
+      "keyword": "부장판사출신변호사",
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
       "keyword": "변호사상담",
       "target_count": 20,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-consulting.com"],
       "disabled": false
     }, {
       "keyword": "변호사",
@@ -72,7 +72,7 @@
       "disabled": false
     }, {
       "keyword": "형사변호사선임비용",
-      "target_count": 10,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-detective.com/info/1608"],
       "disabled": false
     }]
