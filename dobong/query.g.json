@@ -4,12 +4,12 @@
     "max_item_count": 100,
     "work": [{
       "keyword": "형사전문변호사",
-      "target_count": 50,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
       "keyword": "형사사건변호사",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
@@ -28,38 +28,43 @@
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
-      "keyword": "서울변호사",
+      "keyword": "고양형사전문변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "기업전문변호사",
-      "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-comp.com"],
-      "disabled": false
-    }, {
-      "keyword": "서초형사전문변호사",
-      "target_count": 10,
+      "keyword": "고양형사변호사",
+      "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "법률상담",
-      "target_count": 30,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "대형로펌",
+      "keyword": "일산형사소송변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "서울변호사",
-      "target_count": 30,
+      "keyword": "이혼소송비용",
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "변호사",
-      "target_count": 50,
+      "keyword": "유책배우자이혼소송",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "황혼이혼재산분할",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "고양이혼전문변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "고양이혼변호사",
+      "target_count": 20,
       "target_urls": [],
       "disabled": false
     }]
