@@ -86,6 +86,16 @@
       "target_urls": [],
       "disabled": false
     }, {
+      "keyword": "회계사추천",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-labor.com/lawyer?pro=true"],
+      "disabled": false
+    }, {
+      "keyword": "변리사추천",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-consulting.com/lawyer?pro=true"],
+      "disabled": false
+    }, {
       "keyword": "전주변호사",
       "target_count": 10,
       "target_urls": [],
