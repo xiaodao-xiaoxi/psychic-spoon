@@ -58,12 +58,12 @@
     }, {
       "keyword": "회계사추천",
       "target_count": 10,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-labor.com/lawyer?pro=true"],
       "disabled": false
     }, {
-      "keyword": "노무사추천",
+      "keyword": "변리사추천",
       "target_count": 10,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-consulting.com/lawyer?pro=true"],
       "disabled": false
     }, {
       "keyword": "산재변호사",
