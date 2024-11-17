@@ -28,33 +28,33 @@
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
-      "keyword": "서울변호사",
+      "keyword": "광주이혼전문변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "기업변호사",
+      "keyword": "인천이혼전문변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "인천이혼변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "인천이혼소송변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-comp.com"],
-      "disabled": false
-    }, {
-      "keyword": "법률상담",
-      "target_count": 50,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "법무법인",
-      "target_count": 50,
+      "keyword": "인천이혼상담",
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "변호사",
-      "target_count": 50,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "로펌",
-      "target_count": 50,
+      "keyword": "수원이혼상담",
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }]
