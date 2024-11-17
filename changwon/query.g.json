@@ -4,23 +4,23 @@
     "max_item_count": 100,
     "work": [{
       "keyword": "형사전문변호사",
-      "target_count": 30,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
       "keyword": "형사변호사",
       "target_count": 20,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
       "keyword": "이혼전문변호사",
-      "target_count": 30,
-      "target_urls": [],
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
       "keyword": "이혼변호사",
       "target_count": 20,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     },{
       "keyword": "창원법률사무소",
@@ -29,37 +29,37 @@
       "disabled": false
     }, {
       "keyword": "창원로펌",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "창원변호사상담",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "창원변호사사무실",
+      "keyword": "창원법무법인",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "창원변호사",
-      "target_count": 30,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "창원보이스피싱변호사",
+      "keyword": "이혼소송비용",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "창원성범죄전문변호사",
+      "keyword": "이혼시양육권",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "창원판사출신변호사",
+      "keyword": "이혼시양육비",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "변호사",
-      "target_count": 50,
+      "keyword": "이혼소송절차",
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
