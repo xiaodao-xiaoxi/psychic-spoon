@@ -3,37 +3,37 @@
     "max_page_count": 9,
     "max_item_count": 100,
     "work": [{
-      "keyword": "서울변호사",
-      "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw.com/map/dobong"],
-      "disabled": false
-    }, {
-      "keyword": "수원법률사무소",
+      "keyword": "울산변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "의정부판사출신변호사",
+      "keyword": "울산형사소송변호사소",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "기업변호사",
+      "keyword": "울산이혼상담",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "서울변호사상담",
+      "keyword": "대전이혼상담",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "울산법률상담",
+      "keyword": "대전형사변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "서울법무법인",
+      "keyword": "울산변호사추천",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
