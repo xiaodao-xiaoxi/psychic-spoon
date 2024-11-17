@@ -56,6 +56,16 @@
       "target_urls": ["https://jeonju.daeryunlaw.com"],
       "disabled": false
     }, {
+      "keyword": "회계사추천",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "노무사추천",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
       "keyword": "산재변호사",
       "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-labor.com"],
