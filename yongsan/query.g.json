@@ -8,7 +8,7 @@
       "disabled": false
     }, {
       "keyword": "형사사건변호사",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
@@ -32,33 +32,33 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "기업변호사",
-      "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-comp.com"],
+      "keyword": "서초형사전문변호사",
+      "target_count": 20,
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "서울형사전문변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "서울이혼소송변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "변호사",
-      "target_count": 50,
+      "keyword": "서울이혼전문변호사",
+      "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "강남법무법인",
-      "target_count": 10,
+      "keyword": "서울이혼변호사",
+      "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "법무법인",
-      "target_count": 30,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "로펌",
-      "target_count": 30,
+      "keyword": "서울형사전문변호사",
+      "target_count": 20,
       "target_urls": [],
       "disabled": false
     }]
