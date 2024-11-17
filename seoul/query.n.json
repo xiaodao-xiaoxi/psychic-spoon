@@ -2,7 +2,7 @@
     "max_page_count": 9,
     "work": [{
       "keyword": "이혼전문변호사",
-      "target_count": 45,
+      "target_count": 50,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
