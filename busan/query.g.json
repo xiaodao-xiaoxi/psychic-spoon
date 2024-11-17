@@ -2,54 +2,54 @@
     "max_page_count": 9,
     "max_item_count": 100,
     "work": [{
-      "keyword": "물피도주",
+      "keyword": "부산이혼변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-traffic.com/lawInfo_new/3220"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "통장대여처벌",
+      "keyword": "부산이혼전문변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-detective.com/lawInfo_new/1508"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "친권양육권",
+      "keyword": "부산이혼상담",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-divorce.com/lawInfo_new/436"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "군인징계",
+      "keyword": "부산이혼소송변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw.com/field/275"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "사기전문변호사",
+      "keyword": "이혼양육비",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw.com/success/3589"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "탈세처벌",
+      "keyword": "형사변호사선임비용",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-tax.com/info/579"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "광교이혼전문변호사",
+      "keyword": "부산형사사건변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-divorce.com/map/suwon"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "감금죄",
+      "keyword": "부산형사전문변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-detective.com/lawInfo_new/2547"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "노동변호사",
+      "keyword": "부산형사변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-labor.com"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "사기변호사",
+      "keyword": "부산형사소송변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw.com/success_new/1782"],
+      "target_urls": [],
       "disabled": false
     }]
   }
