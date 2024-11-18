@@ -61,9 +61,9 @@
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
-      "keyword": "회계사추천",
+      "keyword": "노무사 추천",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-labor.com/lawyer?pro=true"],
+      "target_urls": ["https://www.daeryunlaw-comp.com/lawyer?pro=true"],
       "disabled": false
     }, {
       "keyword": "변리사추천",
