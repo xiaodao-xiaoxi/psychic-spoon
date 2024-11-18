@@ -68,7 +68,7 @@
     }, {
       "keyword": "변리사 추천",
       "target_count": 10,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-comp.com/lawyer?pro=true"],
       "disabled": false
     }, {
       "keyword": "형사변호사선임비용",
