@@ -33,13 +33,13 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "기업변호사",
+      "keyword": "서울교통사고변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-comp.com"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "변호사",
-      "target_count": 50,
+      "target_count": 40,
       "target_urls": [],
       "disabled": false
     }, {
@@ -48,12 +48,12 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "법무법인",
+      "keyword": "강남보이스피싱변호사",
       "target_count": 30,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "변호사상담",
+      "keyword": "서울성추행변호사",
       "target_count": 30,
       "target_urls": [],
       "disabled": false
