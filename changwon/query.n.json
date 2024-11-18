@@ -61,14 +61,14 @@
       "target_urls": ["https://www.daeryunlaw-administration.com"],
       "disabled": false
     }, {
-      "keyword": "회계사추천",
+      "keyword": "회계사 추천",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-labor.com/lawyer?pro=true"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "변리사추천",
+      "keyword": "변리사 추천",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-consulting.com/lawyer?pro=true"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "형사변호사선임비용",
