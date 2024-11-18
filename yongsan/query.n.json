@@ -48,7 +48,7 @@
     }, {
      "keyword": "변리사 추천",
       "target_count": 15,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-comp.com/lawyer?pro=true"],
       "disabled": false
     }, {
       "keyword": "변호사",
