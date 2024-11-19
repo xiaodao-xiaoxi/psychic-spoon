@@ -2,7 +2,7 @@
     "max_page_count": 9,
     "work": [{
       "keyword": "이혼전문변호사",
-      "target_count": 40,
+      "target_count": 45,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
@@ -26,8 +26,8 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "서울변호사",
-      "target_count": 5,
+      "keyword": "학폭변호사",
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
@@ -42,7 +42,7 @@
       "disabled": false
     }, {
       "keyword": "회계사 추천",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-labor.com/lawyer?pro=true"],
       "disabled": false
     }, {
