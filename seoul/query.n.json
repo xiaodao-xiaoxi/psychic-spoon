@@ -7,12 +7,12 @@
       "disabled": false
     }, {
       "keyword": "이혼변호사",
-      "target_count": 50,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
       "keyword": "이혼소송변호사",
-      "target_count": 30,
+      "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
@@ -26,12 +26,12 @@
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
-      "keyword": "교통사고전문변호사",
+      "keyword": "판사출신변호사",
       "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-traffic.com"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "의료전문변호사",
+      "keyword": "의료변호사",
       "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
@@ -52,17 +52,17 @@
       "disabled": false
     }, {
       "keyword": "마약전문변호사",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
       "keyword": "서울변호사",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "춘천변호사",
-      "target_count": 20,
+      "keyword": "구미변호사",
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
@@ -72,12 +72,12 @@
       "disabled": false
     }, {
       "keyword": "엔터테인먼트변호사",
-      "target_count": 5,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-entertainment.com"],
       "disabled": false
     }, {
       "keyword": "군전문변호사",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-military.com"],
       "disabled": false
     }, {
@@ -88,12 +88,12 @@
     }, {
       "keyword": "회계사 추천",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-labor.com/lawyer?pro=true"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "변리사 추천",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-comp.com/lawyer?pro=true"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "전주변호사",
