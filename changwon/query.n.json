@@ -37,12 +37,12 @@
       "disabled": false
     }, {
       "keyword": "부장판사출신변호사",
-      "target_count": 20,
+      "target_count": 13,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
       "keyword": "변호사상담",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-consulting.com"],
       "disabled": false
     }, {
@@ -57,18 +57,18 @@
       "disabled": false
     },{
       "keyword": "행정변호사",
-      "target_count": 30,
+      "target_count": 25,
       "target_urls": ["https://www.daeryunlaw-administration.com"],
       "disabled": false
     }, {
       "keyword": "회계사 추천",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-labor.com/lawyer?pro=true"],
       "disabled": false
     }, {
       "keyword": "변리사 추천",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-comp.com/lawyer?pro=true"],
+      "target_urls": ["https://www.daeryunlaw-consulting.com/lawyer?pro=true"],
       "disabled": false
     }, {
       "keyword": "형사변호사선임비용",
