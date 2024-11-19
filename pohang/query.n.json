@@ -8,26 +8,26 @@
     }, {
       "keyword": "포항법률상담",
       "target_count": 30,
-      "target_urls": ["https://pohang.daeryunlaw.com/map/pohang"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "구미법률상담",
-      "target_count": 10,
-      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
+      "target_count": 15,
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "구미변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "구미교통사고변호사",
       "target_count": 20,
-      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "교대법무법인",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": ["https://gangnam.daeryunlaw.com"],
       "disabled": false
     }, {
@@ -41,9 +41,9 @@
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "마약류관리법",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-detective.com/field_new/1753"],
+      "keyword": "학폭변호사",
+      "target_count": 5,
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "이혼변호사",
@@ -52,7 +52,7 @@
       "disabled": false
     }, {
       "keyword": "이혼전문변호사",
-      "target_count": 30,
+      "target_count": 35,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
