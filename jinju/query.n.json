@@ -42,12 +42,12 @@
       "disabled": false
     }, {
       "keyword": "서울변호사",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": ["https://yeouido.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "진주법률상담",
-      "target_count": 15,
+      "target_count": 30,
       "target_urls": ["https://jinju.daeryunlaw.com/map/jinju"],
       "disabled": false
     }, {
