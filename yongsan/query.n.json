@@ -12,7 +12,7 @@
       "disabled": false
     }, {
       "keyword": "형사전문변호사",
-      "target_count": 15,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
@@ -22,7 +22,7 @@
       "disabled": false
     }, {
       "keyword": "서울변호사",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
@@ -46,9 +46,9 @@
       "target_urls": [],
       "disabled": false
     }, {
-     "keyword": "변리사 추천",
+     "keyword": "변리사추천",
       "target_count": 15,
-      "target_urls": ["https://www.daeryunlaw-comp.com/lawyer?pro=true"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "변호사",
