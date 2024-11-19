@@ -8,12 +8,7 @@
     }, {
       "keyword": "울산변호사상담",
       "target_count": 30,
-      "target_urls": ["https://ulsan.daeryunlaw.com/map/ulsan"],
-      "disabled": false
-    }, {
-      "keyword": "울산법률상담",
-      "target_count": 30,
-      "target_urls": ["https://ulsan.daeryunlaw.com/choice"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "울산상속포기변호사",
@@ -26,11 +21,6 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "교통사고법률사무소",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-traffic.com"],
-      "disabled": false
-    }, {
       "keyword": "법무법인",
       "target_count": 30,
       "target_urls": ["https://www.daeryunlaw.com"],
@@ -41,9 +31,9 @@
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "마약류관리법",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-detective.com/field_new/1753"],
+      "keyword": "구미변호사",
+      "target_count": 5,
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "이혼변호사",
@@ -52,7 +42,7 @@
       "disabled": false
     }, {
       "keyword": "이혼전문변호사",
-      "target_count": 35,
+      "target_count": 40,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
@@ -61,14 +51,14 @@
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
-      "keyword": "노무사 추천",
+      "keyword": "노무사추천",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-comp.com/lawyer?pro=true"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "변리사추천",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-comp.com/lawyer?pro=true"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "형사전문변호사",
