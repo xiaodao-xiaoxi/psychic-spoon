@@ -3,33 +3,33 @@
     "max_page_count": 9,
     "max_item_count": 100,
     "work": [{
-      "keyword": "형사전문변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-detective.com"],
+      "keyword": "광주이혼전문변호사",
+      "target_count": 10,
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "형사변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-detective.com"],
+      "keyword": "광주변호사상담",
+      "target_count": 10,
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "이혼전문변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-divorce.com"],
+      "keyword": "광주법률상담",
+      "target_count": 10,
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "이혼변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-divorce.com"],
+      "keyword": "광주로펌",
+      "target_count": 10,
+      "target_urls": [],
       "disabled": false
     },{
       "keyword": "창원법률사무소",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "창원로펌",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
@@ -38,37 +38,37 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "창원법무법인",
+      "keyword": "창원사기변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "이혼소송비용",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "이혼시양육권",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "이혼시양육비",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "이혼소송절차",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "창원형사전문변호사",
+      "keyword": "창원형사소송변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "창원형사변호사",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "창원판사출신변호사",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "창원법률상담",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "창원법률사무소",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "창원로펌",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
