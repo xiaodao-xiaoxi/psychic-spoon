@@ -51,5 +51,40 @@
       "target_count": 10,
       "target_urls": [],
       "disabled": false
+    }, {
+      "keyword": "대구로펌",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "대구변호사상담",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "대구법률사무소",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "대구검사출신변호사",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "대구이혼상담",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "대구이혼전문변호사",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "대구교통사고전문변호사",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
     }]
   }
