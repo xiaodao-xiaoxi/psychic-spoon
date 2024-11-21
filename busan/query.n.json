@@ -56,19 +56,19 @@
       "target_urls": ["https://jeonju.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "회계사 추천",
+      "keyword": "노무사추천",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-audit.com/lawyer"],
+      "target_urls": ["https://www.daeryunlaw-comp.com/lawyer?pro=true"],
       "disabled": false
     }, {
       "keyword": "변리사 추천",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-consulting.com/lawyer?pro=true"],
+      "target_urls": ["https://www.daeryunlaw-labor.com/lawyer?pro=true"],
       "disabled": false
     }, {
-      "keyword": "산재변호사",
+      "keyword": "이혼전문변호사추천",
       "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-labor.com"],
+      "target_urls": ["https://www.daeryunlaw-divorce.com/lawyer"],
       "disabled": false
     }]
   }
