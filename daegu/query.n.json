@@ -51,9 +51,9 @@
       "target_urls": ["https://www.daeryunlaw-administration.com"],
       "disabled": false
     }, {
-      "keyword": "학폭전담변호사",
+      "keyword": "이혼양육비",
       "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-school.com"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "학폭변호사",
