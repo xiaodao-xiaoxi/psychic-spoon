@@ -36,19 +36,19 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "노무사 추천",
+      "keyword": "수원변호사",
       "target_count": 15,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "서울변호사",
       "target_count": 10,
-      "target_urls": ["https://yeouido.daeryunlaw.com"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "진주법률상담",
+      "keyword": "광주변호사",
       "target_count": 30,
-      "target_urls": ["https://jinju.daeryunlaw.com/map/jinju"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "변호사",
