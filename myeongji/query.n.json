@@ -12,22 +12,22 @@
       "disabled": false
     }, {
       "keyword": "이혼전문변호사",
-      "target_count": 50,
+      "target_count": 40,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
       "keyword": "이혼변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
       "keyword": "마약변호사",
-      "target_count": 15,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
       "keyword": "행정변호사",
-      "target_count": 10,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-administration.com"],
       "disabled": false
     }, {
@@ -51,7 +51,7 @@
       "target_urls": ["https://jeonju.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "학폭변호사",
+      "keyword": "제주변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
