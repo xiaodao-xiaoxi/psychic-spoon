@@ -56,14 +56,19 @@
       "target_urls": ["https://jeonju.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "노무사추천",
-      "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-comp.com/lawyer?pro=true"],
+      "keyword": "부산변호사",
+      "target_count": 20,
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "변리사 추천",
+      "keyword": "수원법무법인",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-labor.com/lawyer?pro=true"],
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "여의도법무법인",
+      "target_count": 10,
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "이혼전문변호사추천",
