@@ -61,13 +61,13 @@
       "target_urls": ["https://www.daeryunlaw-administration.com"],
       "disabled": false
     }, {
-      "keyword": "변리사 추천",
+      "keyword": "부장검사출신변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-labor.com/lawyer?pro=true],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "형사변호사선임비용",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-detective.com/info/1608"],
       "disabled": false
     }]
