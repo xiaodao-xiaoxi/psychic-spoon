@@ -7,7 +7,7 @@
       "disabled": false
     }, {
       "keyword": "이혼변호사",
-      "target_count": 40,
+      "target_count": 45,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
@@ -22,7 +22,7 @@
       "disabled": false
     }, {
       "keyword": "서울변호사",
-      "target_count": 10,
+      "target_count": 30,
       "target_urls": [],
       "disabled": false
     }, {
@@ -43,11 +43,6 @@
     }, {
      "keyword": "법무법인",
       "target_count": 20,
-      "target_urls": [],
-      "disabled": false
-    }, {
-     "keyword": "변리사추천",
-      "target_count": 15,
       "target_urls": [],
       "disabled": false
     }, {
