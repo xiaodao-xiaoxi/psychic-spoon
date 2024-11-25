@@ -26,9 +26,9 @@
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
-      "keyword": "판사출신변호사",
+      "keyword": "음주운전변호사",
       "target_count": 5,
-      "target_urls": [],
+      "target_urls": ["https://suncheon.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "의료변호사",
