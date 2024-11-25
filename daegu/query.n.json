@@ -27,13 +27,13 @@
       "disabled": false
     }, {
       "keyword": "마약전문변호사",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
       "keyword": "전주변호사",
       "target_count": 25,
-      "target_urls": ["https://jeonju.daeryunlaw.com"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "법무법인",
@@ -47,17 +47,22 @@
       "disabled": false
     }, {
       "keyword": "천안법무법인",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "구미법무법인",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": [],
+      "disabled": false        
+    }, {
+      "keyword": "학교폭력변호사",
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw-school.com"],
       "disabled": false
     }, {
       "keyword": "학폭변호사",
-      "target_count": 30,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-school.com"],
       "disabled": false
     }, {
