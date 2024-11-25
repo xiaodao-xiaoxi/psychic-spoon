@@ -32,7 +32,7 @@
       "disabled": false
     }, {
       "keyword": "형사소송변호사",
-      "target_count": 15,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
@@ -41,9 +41,9 @@
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "검사출신변호사",
+      "keyword": "교통사고변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-detective.com"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "판사출신변호사",
@@ -52,8 +52,8 @@
       "disabled": false
     }, {
       "keyword": "전주변호사",
-      "target_count": 20,
-      "target_urls": ["https://jeonju.daeryunlaw.com"],
+      "target_count": 10,
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "부산변호사",
@@ -61,19 +61,19 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "수원법무법인",
-      "target_count": 10,
-      "target_urls": [],
+      "keyword": "음주운전전문변호사",
+      "target_count": 20,
+      "target_urls": ["https://yeongtong.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "여의도법무법인",
       "target_count": 10,
-      "target_urls": [],
+      "target_urls": ["https://yeouido.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "이혼전문변호사추천",
-      "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-divorce.com/lawyer"],
+      "keyword": "교통사고전문변호사",
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }]
   }
