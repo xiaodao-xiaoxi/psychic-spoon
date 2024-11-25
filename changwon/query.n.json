@@ -28,7 +28,7 @@
     }, {
       "keyword": "전주변호사",
       "target_count": 20,
-      "target_urls": ["https://jeonju.daeryunlaw.com"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "성범죄변호사",
@@ -37,7 +37,7 @@
       "disabled": false
     }, {
       "keyword": "부장판사출신변호사",
-      "target_count": 13,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
@@ -61,13 +61,13 @@
       "target_urls": ["https://www.daeryunlaw-administration.com"],
       "disabled": false
     }, {
-      "keyword": "부장검사출신변호사",
-      "target_count": 10,
+      "keyword": "교통사고전문변호사",
+      "target_count": 5,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "형사변호사선임비용",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-detective.com/info/1608"],
       "disabled": false
     }]
