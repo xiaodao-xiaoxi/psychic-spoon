@@ -28,7 +28,7 @@
     }, {
       "keyword": "교통사고",
       "target_count": 20,
-      "target_urls": [""https://www.daeryunlaw-traffic.com""],
+      "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
       "keyword": "의료전문변호사",
