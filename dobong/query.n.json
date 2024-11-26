@@ -26,9 +26,9 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "인천법무법인",
+      "keyword": "음주운전전문변호사",
       "target_count": 10,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
       "keyword": "법률상담",
