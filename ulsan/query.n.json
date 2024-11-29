@@ -2,17 +2,17 @@
     "max_page_count": 9,
     "work": [{
       "keyword": "변호사추천",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw.com/lawyer"],
       "disabled": false
     }, {
       "keyword": "법무법인",
-      "target_count": 30,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "변호사",
-      "target_count": 30,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
@@ -22,27 +22,27 @@
       "disabled": false
     }, {
       "keyword": "이혼전문변호사",
-      "target_count": 40,
+      "target_count": 100,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
       "keyword": "형사변호사",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
       "keyword": "음주운전전문변호사",
-      "target_count": 15,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
       "keyword": "교통사고전문변호사",
-      "target_count": 15,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
       "keyword": "형사전문변호사",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }]
