@@ -2,7 +2,7 @@
     "max_page_count": 9,
     "work": [{
       "keyword": "형사전문변호사",
-      "target_count": 40,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
@@ -12,22 +12,22 @@
       "disabled": false
     },  {
       "keyword": "이혼변호사",
-      "target_count": 40,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     },  {
       "keyword": "이혼전문변호사",
-      "target_count": 60,
+      "target_count": 80,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
       "keyword": "이혼소송변호사",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-divorce.com/info/1624"],
       "disabled": false
     }, {
       "keyword": "의료변호사",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }, {
@@ -37,7 +37,7 @@
       "disabled": false
     }, {
       "keyword": "변호사",
-      "target_count": 40,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
