@@ -3,27 +3,27 @@
     "max_page_count": 9,
     "max_item_count": 100,
     "work": [{
-      "keyword": "서울변호사",
+      "keyword": "법인회생",
       "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw.com/map/dobong"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "인천이혼전문변호사",
+      "keyword": "기업회생",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "부산법률상담",
+      "keyword": "개인파산신청자격",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "기업변호사",
+      "keyword": "임금체불신고",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "공정거래위원회변호사",
+      "keyword": "비밀유지서약서",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
@@ -33,7 +33,7 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "수원형사소송변호사",
+      "keyword": "법률자문",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
@@ -43,24 +43,24 @@
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "이혼변호사",
+      "keyword": "가맹사업법",
       "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-divorce.com"],
+      "target_urls": ],
       "disabled": false
     }, {
-      "keyword": "이혼전문변호사",
+      "keyword": "의료법위반",
       "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-divorce.com"],
+      "target_urls": ["],
       "disabled": false
     }, {
-      "keyword": "형사변호사",
-      "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-detective.com"],
+      "keyword": "성년후견인신청",
+      "target_count": 20,
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "형사전문변호사",
+      "keyword": "빌려준돈받는법",
       "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-detective.com"],
+      "target_urls": [],
       "disabled": false
     }]
   }
