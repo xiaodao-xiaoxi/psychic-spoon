@@ -13,54 +13,44 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "울산이혼상담",
+      "keyword": "대전음주운전변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "대전이혼상담",
+      "keyword": "대전판사출신변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "대전형사변호사",
+      "keyword": "대전형사소송변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "울산변호사추천",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "변호사",
+      "keyword": "광주개인회생,
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "법무법인",
+      "keyword": "광주민사전문변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "전주형사소송변호사",
       "target_count": 40,
-      "target_urls": ["https://www.daeryunlaw.com"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "이혼변호사",
+      "keyword": "일산형사소송변호사",
       "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-divorce.com"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "이혼전문변호사",
+      "keyword": "일산민사변호사",
       "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-divorce.com"],
-      "disabled": false
-    }, {
-      "keyword": "형사변호사",
-      "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-detective.com"],
-      "disabled": false
-    }, {
-      "keyword": "형사전문변호사",
-      "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-detective.com"],
+      "target_urls": [],
       "disabled": false
     }]
   }
