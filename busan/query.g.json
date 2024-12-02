@@ -2,87 +2,62 @@
     "max_page_count": 9,
     "max_item_count": 100,
     "work": [{
-      "keyword": "구미변호사",
+      "keyword": "부산형사소송변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "구미변호사추천",
+      "keyword": "부산이혼상담",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "구미변호사상담",
+      "keyword": "부산이혼변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "구미변호사사무실",
+      "keyword": "김해변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "구미법률상담",
+      "keyword": "부산형사사건변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "구미형사변호사",
+      "keyword": "부산검사출신변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "구미형사전문변호사",
+      "keyword": "부산판사출신변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "구미이혼전문변호사",
+      "keyword": "부산성폭행변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "구미이혼변호사",
+      "keyword": "부산사기변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "구미법무법인",
+      "keyword": "부산이혼소송변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "대구로펌",
+      "keyword": "부산민사소송변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "대구변호사상담",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "대구법률사무소",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "대구검사출신변호사",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "대구이혼상담",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "대구이혼전문변호사",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "대구교통사고전문변호사",
+      "keyword": "부산개인회생",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
