@@ -2,7 +2,7 @@
     "max_page_count": 9,
     "work": [{
       "keyword": "이혼전문변호사",
-      "target_count": 80,
+      "target_count": 40,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
@@ -57,8 +57,8 @@
       "disabled": false
     }, {
       "keyword": "인천변호사",
-      "target_count": 3,
-      "target_urls": [],
+      "target_count": 30,
+      "target_urls": ["https://incheon.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "변호사",
@@ -71,19 +71,19 @@
       "target_urls": ["https://www.daeryunlaw-entertainment.com"],
       "disabled": false
     }, {
-      "keyword": "여의도변호사",
-      "target_count": 3,
+      "keyword": "안산변호사",
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "서울변호사",
-      "target_count": 3,
-      "target_urls": [],
+      "target_count": 30,
+      "target_urls": ["https://yeouido.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "안산변호사",
-      "target_count": 3,
-      "target_urls": [],
+      "keyword": "광주변호사",
+      "target_count": 30,
+      "target_urls": ["https://gjseo.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "교통사고전문변호사",
