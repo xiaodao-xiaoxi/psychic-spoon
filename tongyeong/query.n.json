@@ -4,40 +4,45 @@
       "keyword": "울산변호사",
       "target_count": 20,
       "target_urls": ["https://ulsan.daeryunlaw.com"],
-      "disabled": false
+      "disabled": true
     }, {
+      "keyword": "청주변호사",
+      "target_count": 30,
+      "target_urls": ["https://cheongju.daeryunlaw.com"],
+      "disabled": false
+    },{
       "keyword": "부산법무법인",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://haeundae.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "구미변호사",
       "target_count": 5,
       "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "광주변호사",
       "target_count": 30,
       "target_urls": ["https://gjseo.daeryunlaw.com"],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "수원변호사",
       "target_count": 30,
       "target_urls": ["https://yeongtong.daeryunlaw.com"],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "법무법인",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "변호사",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "이혼변호사",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
@@ -62,7 +67,7 @@
       "disabled": false
     }, {
       "keyword": "형사전문변호사",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }]
