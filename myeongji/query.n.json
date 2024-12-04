@@ -12,7 +12,7 @@
       "disabled": false
     }, {
       "keyword": "이혼전문변호사",
-      "target_count": 80,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
@@ -47,13 +47,13 @@
       "disabled": false
     }, {
       "keyword": "전주변호사",
-      "target_count": 3,
+      "target_count": 20,
       "target_urls": ["https://jeonju.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "의정부변호사",
-      "target_count": 3,
-      "target_urls": [],
+      "keyword": "안산변호사",
+      "target_count": 20,
+      "target_urls": ["https://ansan.daeryunlaw.com"],
       "disabled": false
     }]
   }
