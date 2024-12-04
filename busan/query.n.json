@@ -7,7 +7,7 @@
       "disabled": false
     }, {
       "keyword": "형사변호사",
-      "target_count": 30,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     },  {
@@ -47,7 +47,7 @@
       "disabled": false
     }, {
       "keyword": "교통사고변호사",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
@@ -57,17 +57,17 @@
       "disabled": false
     }, {
       "keyword": "음주운전전문변호사",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
       "keyword": "평택변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": ["https://yeouido.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "교통사고전문변호사",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }]
