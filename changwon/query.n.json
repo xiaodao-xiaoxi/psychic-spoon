@@ -12,7 +12,7 @@
       "disabled": false
     }, {
       "keyword": "이혼전문변호사",
-      "target_count": 80,
+      "target_count": 40,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
@@ -31,9 +31,9 @@
       "target_urls": ["https://www.daeryunlaw-assault.com"],
       "disabled": false
     }, {
-      "keyword": "부장판사출신변호사",
-      "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-detective.com"],
+      "keyword": "창원변호사",
+      "target_count": 20,
+      "target_urls": ["https://changwon.daeryunlaw.com/lawyer"],
       "disabled": false
     }, {
       "keyword": "변호사상담",
