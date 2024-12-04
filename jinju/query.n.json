@@ -2,7 +2,7 @@
     "max_page_count": 9,
     "work": [{
       "keyword": "이혼전문변호사",
-      "target_count": 80,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
@@ -46,14 +46,14 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "부산변호사",
-      "target_count": 3,
-      "target_urls": [],
+      "keyword": "청주변호사",
+      "target_count": 20,
+      "target_urls": ["https://cheongju.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "광주변호사",
-      "target_count": 3,
-      "target_urls": [],
+      "keyword": "수원변호사",
+      "target_count": 20,
+      "target_urls": ["https://yeongtong.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "변호사",
