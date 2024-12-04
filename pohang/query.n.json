@@ -4,23 +4,28 @@
       "keyword": "김해변호사",
       "target_count": 5,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "순천변호사",
       "target_count": 13,
       "target_urls": ["https://suncheon.daeryunlaw.com"],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "의정부변호사",
       "target_count": 20,
       "target_urls": ["https://uijeongbu.daeryunlaw.com"],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "구미변호사",
       "target_count": 20,
       "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
-      "disabled": false
+      "disabled": true
     }, {
+      "keyword": "청주변호사",
+      "target_count": 30,
+      "target_urls": ["https://cheongju.daeryunlaw.com"],
+      "disabled": false
+    },{
       "keyword": "교통사고변호사",
       "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
@@ -32,19 +37,19 @@
       "disabled": false
     }, {
       "keyword": "법무법인",
-      "target_count": 10,
+      "target_count": 3,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "변호사",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "학폭변호사",
       "target_count": 5,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "이혼변호사",
       "target_count": 10,
@@ -52,17 +57,17 @@
       "disabled": false
     }, {
       "keyword": "이혼전문변호사",
-      "target_count": 40,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
       "keyword": "형사변호사",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
       "keyword": "형사전문변호사",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }]
