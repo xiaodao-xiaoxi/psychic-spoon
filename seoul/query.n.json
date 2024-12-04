@@ -2,7 +2,7 @@
     "max_page_count": 9,
     "work": [{
       "keyword": "이혼전문변호사",
-      "target_count": 30,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
@@ -17,12 +17,12 @@
       "disabled": false
     }, {
       "keyword": "형사전문변호사",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
       "keyword": "형사변호사",
-      "target_count": 20,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
@@ -34,17 +34,17 @@
       "keyword": "의료변호사",
       "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-medical.com"],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "성범죄변호사",
       "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-assault.com"],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "법률상담",
       "target_count": 10,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "변호사상담",
       "target_count": 10,
@@ -52,15 +52,20 @@
       "disabled": false
     }, {
       "keyword": "마약전문변호사",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
       "keyword": "인천변호사",
       "target_count": 30,
       "target_urls": ["https://incheon.daeryunlaw.com"],
-      "disabled": false
+      "disabled": true
     }, {
+      "keyword": "청주변호사",
+      "target_count": 30,
+      "target_urls": ["https://cheongju.daeryunlaw.com"],
+      "disabled": false
+    },{
       "keyword": "변호사",
       "target_count": 20,
       "target_urls": ["https://www.daeryunlaw.com"],
@@ -74,7 +79,7 @@
       "keyword": "안산변호사",
       "target_count": 5,
       "target_urls": [],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "서울변호사",
       "target_count": 30,
@@ -84,10 +89,10 @@
       "keyword": "광주변호사",
       "target_count": 30,
       "target_urls": ["https://gjseo.daeryunlaw.com"],
-      "disabled": false
+      "disabled": true
     }, {
       "keyword": "교통사고전문변호사",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }]
