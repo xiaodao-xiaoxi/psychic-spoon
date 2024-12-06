@@ -17,7 +17,7 @@
       "disabled": false
     },  {
       "keyword": "이혼전문변호사",
-      "target_count": 30,
+      "target_count": 50,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
@@ -29,11 +29,6 @@
       "keyword": "의료변호사",
       "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-medical.com"],
-      "disabled": false
-    }, {
-      "keyword": "형사소송변호사",
-      "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
       "keyword": "부산변호사",
@@ -49,11 +44,6 @@
       "keyword": "교통사고변호사",
       "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
-      "disabled": false
-    }, {
-      "keyword": "판사출신변호사",
-      "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
       "keyword": "음주운전전문변호사",
