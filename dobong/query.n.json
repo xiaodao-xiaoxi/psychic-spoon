@@ -31,6 +31,11 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
+      "keyword": "상속전문변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-inherit.com"],
+      "disabled": false
+    }, {
       "keyword": "법률상담",
       "target_count": 10,
       "target_urls": [],
