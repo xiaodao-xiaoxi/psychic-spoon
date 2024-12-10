@@ -16,6 +16,16 @@
       "target_urls": [],
       "disabled": false
     }, {
+      "keyword": "천안법무법인",
+      "target_count": 10,
+      "target_urls": ["https://cheonan.daeryunlaw.com"],
+      "disabled": false
+    }, {
+      "keyword": "포항법무법인",
+      "target_count": 10,
+      "target_urls": ["https://pohang.daeryunlaw.com"],
+      "disabled": false
+    }, {
       "keyword": "통영변호사",
       "target_count": 30,
       "target_urls": ["https://tongyeong.daeryunlaw.com"],
@@ -27,7 +37,7 @@
       "disabled": true
     }, {
       "keyword": "수원변호사",
-      "target_count": 30,
+      "target_count": 10,
       "target_urls": ["https://yeongtong.daeryunlaw.com"],
       "disabled": true
     }, {
