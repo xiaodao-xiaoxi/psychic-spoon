@@ -46,14 +46,14 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "전주변호사",
+      "keyword": "천안법무법인",
       "target_count": 30,
-      "target_urls": ["https://jeonju.daeryunlaw.com"],
-      "disabled": true
+      "target_urls": ["https://cheonan.daeryunlaw.com"],
+      "disabled": false
     }, {
-      "keyword": "청주변호사",
+      "keyword": "진주법무법인",
       "target_count": 30,
-      "target_urls": ["https://cheongju.daeryunlaw.com"],
+      "target_urls": ["https://jinju.daeryunlaw.com"],
       "disabled": false
     },{
       "keyword": "안산변호사",
