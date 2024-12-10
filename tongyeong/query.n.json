@@ -1,9 +1,9 @@
 {
     "max_page_count": 9,
     "work": [{
-      "keyword": "울산변호사",
-      "target_count": 20,
-      "target_urls": ["https://ulsan.daeryunlaw.com"],
+      "keyword": "부산법무법인",
+      "target_count": 30,
+      "target_urls": [],
       "disabled": true
     }, {
       "keyword": "청주변호사",
@@ -11,9 +11,9 @@
       "target_urls": ["https://cheongju.daeryunlaw.com"],
       "disabled": false
     },{
-      "keyword": "부산법무법인",
-      "target_count": 5,
-      "target_urls": ["https://haeundae.daeryunlaw.com"],
+      "keyword": "광주법무법인",
+      "target_count": 30,
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "구미변호사",
