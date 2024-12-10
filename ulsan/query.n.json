@@ -31,6 +31,11 @@
       "target_urls": ["https://jinju.daeryunlaw.com"],
       "disabled": false
     }, {
+      "keyword": "상속전문변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-inherit.com"],
+      "disabled": false
+    }, {
       "keyword": "이혼전문변호사",
       "target_count": 100,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
