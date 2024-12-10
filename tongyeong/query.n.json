@@ -16,9 +16,9 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "구미변호사",
-      "target_count": 5,
-      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
+      "keyword": "통영변호사",
+      "target_count": 30,
+      "target_urls": ["https://tongyeong.daeryunlaw.com"],
       "disabled": true
     }, {
       "keyword": "광주변호사",
