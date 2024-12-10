@@ -56,9 +56,9 @@
       "target_urls": ["https://yeouido.daeryunlaw.com"],
       "disabled": true
     }, {
-      "keyword": "청주변호사",
+      "keyword": "구미법무법인",
       "target_count": 30,
-      "target_urls": ["https://cheongju.daeryunlaw.com"],
+      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
       "disabled": false
     },{
       "keyword": "교통사고전문변호사",
