@@ -51,6 +51,16 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
+      "keyword": "천안법무법인",
+      "target_count": 10,
+      "target_urls": ["https://cheonan.daeryunlaw.com"],
+      "disabled": false
+    }, {
+      "keyword": "포항법무법인",
+      "target_count": 10,
+      "target_urls": ["https://pohang.daeryunlaw.com"],
+      "disabled": false
+    }, {
       "keyword": "법률상담",
       "target_count": 5,
       "target_urls": [],
