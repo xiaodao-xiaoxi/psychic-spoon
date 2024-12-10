@@ -36,18 +36,18 @@
       "target_urls": ["https://yeouido.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "이혼법률상담",
+      "keyword": "이혼전문변호사상담",
       "target_count": 5,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
       "keyword": "교통사고전문변호사",
-      "target_count": 10,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
       "keyword": "음주운전전문변호사",
-      "target_count": 10,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
