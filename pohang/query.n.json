@@ -46,9 +46,9 @@
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "학폭변호사",
-      "target_count": 5,
-      "target_urls": [],
+      "keyword": "포항법무법인",
+      "target_count": 20,
+      "target_urls": ["https://pohang.daeryunlaw.com"],
       "disabled": true
     }, {
       "keyword": "이혼변호사",
