@@ -24,20 +24,25 @@
       "keyword": "의료변호사",
       "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-medical.com"],
-      "disabled": true
+      "disabled": false
+    }, {
+      "keyword": "상속전문변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-inherit.com"],
+      "disabled": false
     }, {
       "keyword": "마약전문변호사",
       "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
-      "keyword": "전주변호사",
+      "keyword": "부산법무법인",
       "target_count": 10,
       "target_urls": [],
-      "disabled": true
+      "disabled": false
     }, {
       "keyword": "청주변호사",
-      "target_count": 30,
+      "target_count": 10,
       "target_urls": ["https://cheongju.daeryunlaw.com"],
       "disabled": false
     },{
