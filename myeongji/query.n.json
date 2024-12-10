@@ -56,9 +56,9 @@
       "target_urls": ["https://jinju.daeryunlaw.com"],
       "disabled": false
     },{
-      "keyword": "안산변호사",
+      "keyword": "포항법무법인",
       "target_count": 5,
-      "target_urls": ["https://ansan.daeryunlaw.com"],
+      "target_urls": ["https://pohang.daeryunlaw.com"],
       "disabled": true
     }]
   }
