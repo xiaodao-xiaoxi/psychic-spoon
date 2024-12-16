@@ -64,7 +64,12 @@
       "keyword": "수원변호사",
       "target_count": 20,
       "target_urls": ["https://yeongtong.daeryunlaw.com"],
-      "disabled": true
+      "disabled": false
+    }, {
+      "keyword": "서울변호사",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
     }, {
       "keyword": "변호사",
       "target_count": 10,
