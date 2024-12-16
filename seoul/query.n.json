@@ -31,20 +31,25 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
+      "keyword": "서울변호사",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
       "keyword": "의료변호사",
       "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-medical.com"],
-      "disabled": true
+      "disabled": false
     }, {
       "keyword": "성범죄변호사",
       "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-assault.com"],
-      "disabled": true
+      "disabled": false
     }, {
       "keyword": "법률상담",
       "target_count": 10,
       "target_urls": [],
-      "disabled": true
+      "disabled": false
     }, {
       "keyword": "변호사상담",
       "target_count": 10,
@@ -59,7 +64,7 @@
       "keyword": "인천변호사",
       "target_count": 30,
       "target_urls": ["https://incheon.daeryunlaw.com"],
-      "disabled": true
+      "disabled": false
     }, {
       "keyword": "청주변호사",
       "target_count": 30,
@@ -79,7 +84,7 @@
       "keyword": "안산변호사",
       "target_count": 5,
       "target_urls": [],
-      "disabled": true
+      "disabled": false
     }, {
       "keyword": "서울변호사",
       "target_count": 30,
@@ -89,7 +94,7 @@
       "keyword": "광주변호사",
       "target_count": 30,
       "target_urls": ["https://gjseo.daeryunlaw.com"],
-      "disabled": true
+      "disabled": false
     }, {
       "keyword": "교통사고전문변호사",
       "target_count": 5,
