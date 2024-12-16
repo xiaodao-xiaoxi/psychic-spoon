@@ -55,10 +55,15 @@
       "target_count": 30,
       "target_urls": ["https://jinju.daeryunlaw.com"],
       "disabled": false
+    }, {
+      "keyword": "서울변호사",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
     },{
       "keyword": "포항법무법인",
       "target_count": 5,
       "target_urls": ["https://pohang.daeryunlaw.com"],
-      "disabled": true
+      "disabled": false
     }]
   }
