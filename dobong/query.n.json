@@ -52,12 +52,12 @@
       "disabled": false
     }, {
       "keyword": "성남변호사",
-      "target_count": 10,
+      "target_count": 20,
       "target_urls": ["https://sungnam.daeryunlaw.com"],
-      "disabled": true
+      "disabled": false
     }, {
-      "keyword": "청주변호사",
-      "target_count": 30,
+      "keyword": "청주법무법인",
+      "target_count": 10,
       "target_urls": ["https://cheongju.daeryunlaw.com"],
       "disabled": false
     },{
