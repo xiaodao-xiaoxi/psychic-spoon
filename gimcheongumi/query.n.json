@@ -39,7 +39,7 @@
       "keyword": "김천변호사",
       "target_count": 10,
       "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
-      "disabled": true
+      "disabled": false
     }, {
       "keyword": "구미변호사",
       "target_count": 10,
@@ -69,7 +69,7 @@
       "keyword": "안양변호사",
       "target_count": 10,
       "target_urls": ["https://anyang.daeryunlaw.com/"],
-      "disabled": tfalse
+      "disabled": false
     }, {
       "keyword": "변호사",
       "target_count": 20,
