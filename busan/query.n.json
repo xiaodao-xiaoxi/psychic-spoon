@@ -31,7 +31,7 @@
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }, {
-      "keyword": "부산법무법인",
+      "keyword": "부산변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
@@ -61,7 +61,7 @@
       "target_urls": ["https://yeongtong.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "구미법무법인",
+      "keyword": "구미변호사",
       "target_count": 20,
       "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
       "disabled": false
