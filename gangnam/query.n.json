@@ -36,14 +36,9 @@
       "target_urls": ["https://www.daeryunlaw-inherit.com"],
       "disabled": false
     }, {
-      "keyword": "부천변호사",
+      "keyword": "의정부변호사",
       "target_count": 20,
-      "target_urls": ["https://bucheon.daeryunlaw.com"],
-      "disabled": true
-    }, {
-      "keyword": "강남변호사",
-      "target_count": 10,
-      "target_urls": ["https://gangnam.daeryunlaw.com"],
+      "target_urls": ["https://uijeongbu.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "성남변호사",
@@ -62,9 +57,9 @@
       "disabled": false
     }, {
       "keyword": "안양변호사",
-      "target_count": 10,
+      "target_count": 20,
       "target_urls": ["https://anyang.daeryunlaw.com/"],
-      "disabled": tfalse
+      "disabled": false
     }, {
       "keyword": "변호사",
       "target_count": 20,
