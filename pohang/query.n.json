@@ -4,22 +4,22 @@
       "keyword": "김해변호사",
       "target_count": 5,
       "target_urls": [],
-      "disabled": true
+      "disabled": false
     }, {
       "keyword": "순천변호사",
       "target_count": 13,
       "target_urls": ["https://suncheon.daeryunlaw.com"],
-      "disabled": true
+      "disabled": false
     }, {
       "keyword": "의정부변호사",
       "target_count": 20,
       "target_urls": ["https://uijeongbu.daeryunlaw.com"],
-      "disabled": true
+      "disabled": false
     }, {
       "keyword": "구미변호사",
       "target_count": 20,
       "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
-      "disabled": true
+      "disabled": false
     }, {
       "keyword": "청주변호사",
       "target_count": 30,
@@ -49,7 +49,7 @@
       "keyword": "포항법무법인",
       "target_count": 20,
       "target_urls": ["https://pohang.daeryunlaw.com"],
-      "disabled": true
+      "disabled": false
     }, {
       "keyword": "이혼변호사",
       "target_count": 10,
