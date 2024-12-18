@@ -58,7 +58,7 @@
     }, {
       "keyword": "진주변호사",
       "target_count": 30,
-      "target_urls": [https://jinju.daeryunlaw.com"],
+      "target_urls": ["https://jinju.daeryunlaw.com"],
       "disabled": false
     },{
       "keyword": "교통사고전문변호사",
