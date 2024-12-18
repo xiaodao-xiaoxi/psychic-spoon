@@ -22,7 +22,7 @@
       "disabled": false
     }, {
       "keyword": "의료변호사",
-      "target_count": 5,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }, {
@@ -31,9 +31,9 @@
       "target_urls": ["https://www.daeryunlaw-assault.com"],
       "disabled": false
     }, {
-      "keyword": "창원변호사",
+      "keyword": "울산법무법인",
       "target_count": 20,
-      "target_urls": [],
+      "target_urls": ["https://ulsan.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "변호사상담",
@@ -51,14 +51,14 @@
       "target_urls": [],
       "disabled": false
     },{
-      "keyword": "행정변호사",
+      "keyword": "행정전문변호사",
       "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-administration.com"],
       "disabled": false
     }, {
-      "keyword": "청주법무법인",
+      "keyword": "진주변호사",
       "target_count": 30,
-      "target_urls": ["https://cheongju.daeryunlaw.com"],
+      "target_urls": [https://jinju.daeryunlaw.com"],
       "disabled": false
     },{
       "keyword": "교통사고전문변호사",
