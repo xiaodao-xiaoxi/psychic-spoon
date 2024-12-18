@@ -27,13 +27,13 @@
       "disabled": false
     }, {
       "keyword": "의료변호사",
-      "target_count": 5,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }, {
-      "keyword": "부산변호사",
+      "keyword": "인천형사변호사",
       "target_count": 20,
-      "target_urls": [],
+      "target_urls": ["https://incheon.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "변호사",
@@ -42,18 +42,18 @@
       "disabled": false
     }, {
       "keyword": "교통사고변호사",
-      "target_count": 15,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
       "keyword": "음주운전전문변호사",
-      "target_count": 10,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "평택변호사",
+      "keyword": "통영변호사",
       "target_count": 20,
-      "target_urls": ["https://yeouido.daeryunlaw.com"],
+      "target_urls": ["https://tongyeong.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "수원변호사",
@@ -67,7 +67,7 @@
       "disabled": false
     },{
       "keyword": "교통사고전문변호사",
-      "target_count": 15,
+      "target_count": 25,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }]
