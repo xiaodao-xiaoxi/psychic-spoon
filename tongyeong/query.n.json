@@ -5,13 +5,8 @@
       "target_count": 30,
       "target_urls": ["https://gjdong.daeryunlaw.com"],
       "disabled": false
-    },{
-      "keyword": "광주법무법인",
-      "target_count": 30,
-      "target_urls": ["https://gjdong.daeryunlaw.com"],
-      "disabled": false
     }, {
-      "keyword": "천안법무법인",
+      "keyword": "천안변호사",
       "target_count": 10,
       "target_urls": ["https://cheonan.daeryunlaw.com"],
       "disabled": false
@@ -26,9 +21,9 @@
       "target_urls": ["https://tongyeong.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "광주변호사",
+      "keyword": "울산변호사",
       "target_count": 30,
-      "target_urls": ["https://gjseo.daeryunlaw.com"],
+      "target_urls": ["https://ulsan.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "수원변호사",
