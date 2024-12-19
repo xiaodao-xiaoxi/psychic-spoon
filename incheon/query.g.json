@@ -1,1 +1,46 @@
 
+{
+    "max_page_count": 9,
+    "max_item_count": 100,
+    "work": [{
+      "keyword": "인천변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "인천법률상담",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "인천법무법인",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "인천형사전문변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "인천형사변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "인천이혼전문변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "인천이혼변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "인천로펌",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }]
+  }
