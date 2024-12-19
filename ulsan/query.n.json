@@ -21,12 +21,12 @@
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
-      "keyword": "천안법무법인",
+      "keyword": "통영변호사",
       "target_count": 30,
-      "target_urls": ["https://cheonan.daeryunlaw.com"],
+      "target_urls": ["https://tongyeong.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "진주법무법인",
+      "keyword": "진주변호사",
       "target_count": 30,
       "target_urls": ["https://jinju.daeryunlaw.com"],
       "disabled": false
@@ -37,7 +37,7 @@
       "disabled": false
     }, {
       "keyword": "이혼전문변호사",
-      "target_count": 100,
+      "target_count": 80,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
