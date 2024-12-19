@@ -77,13 +77,13 @@
       "disabled": false
     }, {
       "keyword": "엔터테인먼트변호사",
-      "target_count": 3,
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-entertainment.com"],
       "disabled": false
     }, {
-      "keyword": "안산변호사",
-      "target_count": 5,
-      "target_urls": [],
+      "keyword": "안양변호사",
+      "target_count": 30,
+      "target_urls": ["https://anyang.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "서울변호사",
