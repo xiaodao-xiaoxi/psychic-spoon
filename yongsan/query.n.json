@@ -46,23 +46,18 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "천안법무법인",
-      "target_count": 10,
-      "target_urls": ["https://cheonan.daeryunlaw.com"],
+      "keyword": "인천형사변호사",
+      "target_count": 20,
+      "target_urls": ["https://incheon.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "포항법무법인",
-      "target_count": 10,
-      "target_urls": ["https://pohang.daeryunlaw.com"],
+      "keyword": "수원변호사",
+      "target_count": 20,
+      "target_urls": ["https://yeongtong.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "법률상담",
       "target_count": 5,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "이혼소송",
-      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
