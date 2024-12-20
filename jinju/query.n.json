@@ -56,6 +56,11 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
+      "keyword": "상속변호사",
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw-inherit.com"],
+      "disabled": false
+    }, {
       "keyword": "청주변호사",
       "target_count": 30,
       "target_urls": ["https://cheongju.daeryunlaw.com"],
