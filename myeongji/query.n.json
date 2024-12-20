@@ -27,8 +27,13 @@
       "disabled": false
     }, {
       "keyword": "교통사고전문변호사",
-      "target_count": 5,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
+      "disabled": false
+    }, {
+      "keyword": "상속변호사",
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw-inherit.com"],
       "disabled": false
     }, {
       "keyword": "의료전문변호사",
