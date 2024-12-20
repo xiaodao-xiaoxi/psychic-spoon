@@ -61,6 +61,11 @@
       "target_urls": ["https://anyang.daeryunlaw.com/"],
       "disabled": false
     }, {
+      "keyword": "상속전문변호사",
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw-inherit.com],
+      "disabled": false
+    }, {
       "keyword": "변호사",
       "target_count": 20,
       "target_urls": ["https://www.daeryunlaw.com"],
