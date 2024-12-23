@@ -51,9 +51,14 @@
       "target_urls": ["https://ulsan.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "구미변호사",
+      "keyword": "서산변호사",
       "target_count": 20,
-      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
+      "target_urls": ["https://seosan.daeryunlaw.com"],
+      "disabled": false
+    }, {
+      "keyword": "통영변호사",
+      "target_count": 10,
+      "target_urls": ["https://tongyeong.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "상속전문변호사",
