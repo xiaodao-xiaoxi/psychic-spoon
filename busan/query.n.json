@@ -31,34 +31,24 @@
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }, {
-      "keyword": "인천형사변호사",
+      "keyword": "부산형사변호사",
       "target_count": 20,
-      "target_urls": ["https://incheon.daeryunlaw.com"],
+      "target_urls": ["https://haeundae.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "변호사",
+      "keyword": "부산이혼변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw.com"],
+      "target_urls": ["https://myeongji.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "교통사고변호사",
+      "keyword": "대구형사변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-traffic.com"],
+      "target_urls": ["https://daegu.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "음주운전전문변호사",
+      "keyword": "울산변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-traffic.com"],
-      "disabled": false
-    }, {
-      "keyword": "통영변호사",
-      "target_count": 20,
-      "target_urls": ["https://tongyeong.daeryunlaw.com"],
-      "disabled": false
-    }, {
-      "keyword": "수원변호사",
-      "target_count": 20,
-      "target_urls": ["https://yeongtong.daeryunlaw.com"],
+      "target_urls": ["https://ulsan.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "구미변호사",
@@ -67,12 +57,27 @@
       "disabled": false
     }, {
       "keyword": "상속전문변호사",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-inherit.com"],
+      "disabled": false
+    }, {
+      "keyword": "상속변호사",
+      "target_count": 15,
+      "target_urls": ["https://www.daeryunlaw-inherit.com"],
+      "disabled": false
+    }, {
+      "keyword": "음주운전변호사",
+      "target_count": 10,
+      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "음주운전전문변호사",
       "target_count": 20,
+      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
+      "disabled": false
+    }, {
+      "keyword": "교통사고변호사",
+      "target_count": 10,
       "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
       "disabled": false
     },{
