@@ -61,24 +61,24 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "음주운전전문변호사",
-      "target_count": 15,
+      "keyword": "음주운전변호사",
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "상속전문변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-inherit.com"],
-      "disabled": false
-    }, {
-      "keyword": "안양변호사",
+      "keyword": "음주운전전문변호사",
       "target_count": 10,
-      "target_urls": ["https://anyang.daeryunlaw.com/"],
+      "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw.com"],
+      "keyword": "교통사고변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-traffic.com"],
+      "disabled": false
+    },{
+      "keyword": "교통사고전문변호사",
+      "target_count": 25,
+      "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }]
   }
