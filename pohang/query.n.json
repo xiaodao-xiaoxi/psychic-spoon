@@ -46,6 +46,11 @@
       "target_urls": ["https://ulsan.daeryunlaw.com"],
       "disabled": false
     }, {
+      "keyword": "창원변호사",
+      "target_count": 30,
+      "target_urls": [],
+      "disabled": false
+    }, {
       "keyword": "상속변호사",
       "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-inherit.com"],
