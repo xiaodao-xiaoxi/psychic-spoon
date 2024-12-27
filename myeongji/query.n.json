@@ -51,14 +51,14 @@
       "target_urls": ["https://ulsan.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "서산법무법인",
+      "keyword": "강릉변호사",
       "target_count": 10,
-      "target_urls": ["https://seosan.daeryunlaw.com"],
+      "target_urls": ["https://gangneung.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "서산변호사",
+      "keyword": "울산변호사",
       "target_count": 20,
-      "target_urls": ["https://seosan.daeryunlaw.com"],
+      "target_urls": ["https://ulsan.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "상속전문변호사",
