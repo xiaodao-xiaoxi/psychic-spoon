@@ -51,9 +51,9 @@
       "target_urls": ["https://jinju.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "울산변호사",
+      "keyword": "제주변호사",
       "target_count": 20,
-      "target_urls": ["https://ulsan.daeryunlaw.com"],
+      "target_urls": ["https://jeju.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "천안변호사",
