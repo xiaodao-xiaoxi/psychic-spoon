@@ -46,9 +46,9 @@
       "target_urls": ["https://daegu.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "울산변호사",
+      "keyword": "제주변호사",
       "target_count": 20,
-      "target_urls": ["https://ulsan.daeryunlaw.com"],
+      "target_urls": ["https://jeju.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "부산이혼법무법인",
