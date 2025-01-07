@@ -56,9 +56,9 @@
       "target_urls": ["https://suseong.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "천안변호사",
+      "keyword": "강남변호사",
       "target_count": 20,
-      "target_urls": ["https://cheonan.daeryunlaw.com"],
+      "target_urls": ["https://gangnam.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "인천형사변호사",
