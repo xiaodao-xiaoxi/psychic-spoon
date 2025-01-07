@@ -41,11 +41,6 @@
       "target_urls": ["https://bucheon.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "울산변호사",
-      "target_count": 20,
-      "target_urls": ["https://ulsan.daeryunlaw.com"],
-      "disabled": false
-    }, {
       "keyword": "창원변호사",
       "target_count": 30,
       "target_urls": [],
