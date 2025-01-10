@@ -56,9 +56,9 @@
       "target_urls": ["https://myeongji.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "통영변호사",
+      "keyword": "강남변호사",
       "target_count": 10,
-      "target_urls": ["https://tongyeong.daeryunlaw.com"],
+      "target_urls": ["https://gangnam.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "상속전문변호사",
