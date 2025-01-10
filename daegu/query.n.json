@@ -42,13 +42,13 @@
       "disabled": false
     }, {
       "keyword": "포항변호사",
-      "target_count": 20,
+      "target_count": 15,
       "target_urls": ["https://pohang.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "춘천변호사",
-      "target_count": 10,
-      "target_urls": ["https://chuncheon.daeryunlaw.com"],
+      "keyword": "서울변호사",
+      "target_count": 15,
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "대구형사변호사",
