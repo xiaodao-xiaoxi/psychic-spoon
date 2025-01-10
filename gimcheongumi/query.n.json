@@ -31,9 +31,9 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "구미법무법인",
-      "target_count": 5,
-      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
+      "keyword": "서울변호사",
+      "target_count": 15,
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "김천변호사",
@@ -42,7 +42,7 @@
       "disabled": false
     }, {
       "keyword": "구미변호사",
-      "target_count": 10,
+      "target_count": 5,
       "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
       "disabled": false
     }, {
