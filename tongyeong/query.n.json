@@ -11,11 +11,6 @@
       "target_urls": ["https://gangnam.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "포항법무법인",
-      "target_count": 10,
-      "target_urls": ["https://pohang.daeryunlaw.com"],
-      "disabled": false
-    }, {
       "keyword": "강남변호사",
       "target_count": 30,
       "target_urls": ["https://gangnam.daeryunlaw.com"],
@@ -62,7 +57,7 @@
       "disabled": false
     }, {
       "keyword": "음주운전변호사",
-      "target_count": 10,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
