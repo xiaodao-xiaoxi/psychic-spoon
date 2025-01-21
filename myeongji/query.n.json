@@ -21,24 +21,19 @@
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
-      "keyword": "이혼소송변호사",
-      "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-divorce.com/info/1624"],
-      "disabled": false
-    }, {
       "keyword": "의료변호사",
       "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }, {
-      "keyword": "부산형사변호사",
+      "keyword": "부산변호사",
       "target_count": 20,
       "target_urls": ["https://haeundae.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "부산이혼변호사",
+      "keyword": "의정부변호사",
       "target_count": 20,
-      "target_urls": ["https://myeongji.daeryunlaw.com"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "창원변호사",
@@ -67,7 +62,7 @@
       "disabled": false
     }, {
       "keyword": "상속전문변호사",
-      "target_count": 15,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-inherit.com"],
       "disabled": false
     }, {
@@ -92,7 +87,7 @@
       "disabled": false
     },{
       "keyword": "교통사고전문변호사",
-      "target_count": 15,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }]
