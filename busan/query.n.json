@@ -51,9 +51,14 @@
       "target_urls": ["https://jeju.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "부산이혼법무법인",
+      "keyword": "창원변호사",
       "target_count": 20,
-      "target_urls": ["https://myeongji.daeryunlaw.com"],
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "부산변호사",
+      "target_count": 20,
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "강남변호사",
