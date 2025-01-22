@@ -36,6 +36,16 @@
       "target_urls": ["https://jinju.daeryunlaw.com"],
       "disabled": false
     }, {
+      "keyword": "창원변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "부산변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
       "keyword": "부천변호사",
       "target_count": 20,
       "target_urls": ["https://bucheon.daeryunlaw.com"],
