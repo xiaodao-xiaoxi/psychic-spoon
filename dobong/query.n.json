@@ -46,6 +46,11 @@
       "target_urls": ["https://chuncheon.daeryunlaw.com"],
       "disabled": false
     }, {
+      "keyword": "부산변호사",
+      "target_count": 20,
+      "target_urls": [],
+      "disabled": false
+    }, {
       "keyword": "서울형사변호사",
       "target_count": 20,
       "target_urls": ["https://yeouido.daeryunlaw.com"],
