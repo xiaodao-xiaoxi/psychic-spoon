@@ -36,9 +36,9 @@
       "target_urls": ["https://jeju.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "군산변호사",
+      "keyword": "서초변호사",
       "target_count": 20,
-      "target_urls": ["https://gunsan.daeryunlaw.com"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "춘천변호사",
