@@ -41,6 +41,11 @@
       "target_urls": ["https://myeongji.daeryunlaw.com"],
       "disabled": false
     }, {
+      "keyword": "구미변호사",
+      "target_count": 10,
+      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
+      "disabled": false
+    }, {
       "keyword": "대구형사변호사",
       "target_count": 20,
       "target_urls": ["https://daegu.daeryunlaw.com"],
