@@ -20,6 +20,11 @@
       "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
+    }, {
+      "keyword": "김천법무법인",
+      "target_count": 10,
+      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
+      "disabled": false
      }, {
       "keyword": "음주운전변호사",
       "target_count": 35,
