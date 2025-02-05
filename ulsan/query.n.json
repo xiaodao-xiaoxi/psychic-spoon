@@ -16,6 +16,11 @@
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
+      "keyword": "김천법무법인",
+      "target_count": 10,
+      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
+      "disabled": false
+    }, {
       "keyword": "형사전문변호사",
       "target_count": 100,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
