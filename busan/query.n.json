@@ -6,14 +6,14 @@
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
-      "keyword": "대구변호사",
+      "keyword": "인천형사변호사",
       "target_count": 20,
-      "target_urls": ["https://gangnam.daeryunlaw.com"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "강남변호사",
+      "keyword": "성남변호사",
       "target_count": 20,
-      "target_urls": ["https://gangnam.daeryunlaw.com"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "의정부변호사",
