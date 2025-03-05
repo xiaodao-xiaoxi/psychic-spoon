@@ -36,24 +36,24 @@
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
-      "keyword": "강남변호사",
-      "target_count": 20,
-      "target_urls": ["https://gangnam.daeryunlaw.com"],
-      "disabled": false
-    }, {
-      "keyword": "대구변호사",
+      "keyword": "인천법무법인",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "의정부변호사",
+      "keyword": "진주변호사",
       "target_count": 20,
-      "target_urls": ["https://uijeongbu.daeryunlaw.com"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "울산법무법인",
+      "keyword": "인천형사변호사",
       "target_count": 20,
-      "target_urls": ["https://ulsan.daeryunlaw.com"],
+      "target_urls": ["https://incheon.daeryunlaw.com"],
+      "disabled": false
+    }, {
+      "keyword": "성남변호사",
+      "target_count": 20,
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "교통사고변호사",
