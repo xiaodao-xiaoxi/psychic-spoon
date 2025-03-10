@@ -7,7 +7,7 @@
       "disabled": false
     }, {
       "keyword": "인천형사변호사",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
@@ -19,11 +19,6 @@
       "keyword": "의정부변호사",
       "target_count": 20,
       "target_urls": ["https://uijeongbu.daeryunlaw.com"],
-      "disabled": false
-    }, {
-      "keyword": "울산법무법인",
-      "target_count": 20,
-      "target_urls": ["https://ulsan.daeryunlaw.com"],
       "disabled": false
     }, {
       "keyword": "상속변호사",
@@ -39,6 +34,11 @@
       "keyword": "교통사고변호사",
       "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
+      "disabled": false
+    }, {
+      "keyword": "가사변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-inherit.com"],
       "disabled": false
     },  {
       "keyword": "이혼변호사",
