@@ -41,6 +41,11 @@
       "target_urls": [],
       "disabled": false
     }, {
+      "keyword": "상속변호사",
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw-inherit.com"],
+      "disabled": false
+    }, {
       "keyword": "진주변호사",
       "target_count": 20,
       "target_urls": [],
