@@ -41,8 +41,8 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "상속변호사",
-      "target_count": 20,
+      "keyword": "상속전문변호사",
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-inherit.com"],
       "disabled": false
     }, {
@@ -58,7 +58,7 @@
     }, {
       "keyword": "성범죄전문변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-estate.com"],
+      "target_urls": ["https://www.daeryunlaw-assault.com"],
       "disabled": false
     }, {
       "keyword": "교통사고변호사",
