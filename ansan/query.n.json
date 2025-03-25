@@ -6,8 +6,8 @@
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
-      "keyword": "일산변호사",
-      "target_count": 10,
+      "keyword": "인천변호사",
+      "target_count": 20,
       "target_urls": [],
       "disabled": false
     },  {
@@ -36,7 +36,7 @@
       "target_urls": ["https://www.daeryunlaw-estate.com"],
       "disabled": false
     }, {
-      "keyword": "인천법무법인",
+      "keyword": "광주변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
@@ -46,7 +46,7 @@
       "target_urls": ["https://www.daeryunlaw-inherit.com"],
       "disabled": false
     }, {
-      "keyword": "진주변호사",
+      "keyword": "구미변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
