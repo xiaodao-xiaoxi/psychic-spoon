@@ -36,14 +36,19 @@
       "target_urls": ["https://gangnam.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "의정부변호사",
+      "keyword": "인천변호사",
       "target_count": 20,
-      "target_urls": ["https://uijeongbu.daeryunlaw.com"],
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "울산법무법인",
+      "keyword": "광주변호사",
       "target_count": 20,
-      "target_urls": ["https://ulsan.daeryunlaw.com"],
+      "target_urls": [],
+      "disabled": false
+    },  {
+      "keyword": "성범죄전문변호사",
+      "target_count": 20,
+      "target_urls": [],
       "disabled": false
      }, {
       "keyword": "음주운전변호사",
