@@ -27,7 +27,7 @@
       "disabled": false
     }, {
       "keyword": "성범죄전문변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-assault.com"],
       "disabled": false
     }, {
@@ -41,9 +41,9 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "김천법무법인",
+      "keyword": "인천변호사",
       "target_count": 10,
-      "target_urls": ["https://gimcheongumi.daeryunlaw.com"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "음주운전전문변호사",
@@ -61,14 +61,14 @@
       "target_urls": ["https://gangnam.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "울산법무법인",
-      "target_count": 20,
-      "target_urls": ["https://ulsan.daeryunlaw.com"],
+      "keyword": "구미변호사",
+      "target_count": 10,
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "강남변호사",
+      "keyword": "광주변호사",
       "target_count": 20,
-      "target_urls": ["https://gangnam.daeryunlaw.com"],
+      "target_urls": [],
       "disabled": false
     },{
       "keyword": "교통사고변호사",
