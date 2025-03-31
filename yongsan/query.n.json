@@ -22,7 +22,7 @@
       "disabled": false
     }, {
       "keyword": "성범죄전문변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-assault.com"],
       "disabled": false
     }, {
@@ -31,8 +31,13 @@
       "target_urls": ["https://www.daeryunlaw-estate.com"],
       "disabled": false
      }, {
-      "keyword": "음주운전변호사",
+      "keyword": "안양변호사",
       "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+     }, {
+      "keyword": "음주운전변호사",
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
