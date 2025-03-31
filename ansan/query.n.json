@@ -46,14 +46,14 @@
       "target_urls": ["https://www.daeryunlaw-inherit.com"],
       "disabled": false
     }, {
-      "keyword": "구미변호사",
+      "keyword": "안양변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "인천형사변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-assault.com"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "성범죄전문변호사",
