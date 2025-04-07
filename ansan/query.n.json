@@ -2,82 +2,27 @@
     "max_page_count": 9,
     "work": [{
       "keyword": "형사전문변호사",
-      "target_count": 130,
+      "target_count": 100,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
-    }, {
-      "keyword": "인천변호사",
-      "target_count": 20,
-      "target_urls": [],
-      "disabled": false
     },  {
       "keyword": "이혼전문변호사",
-      "target_count": 60,
+      "target_count": 100,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
-     }, {
-      "keyword": "음주운전변호사",
-      "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-traffic.com"],
-      "disabled": false
-    }, {
-      "keyword": "음주운전전문변호사",
-      "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-traffic.com"],
-      "disabled": false
     },  {
-      "keyword": "이혼전문변호사",
+      "keyword": "이혼변호사",
       "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
-      "keyword": "제주변호사",
+      "keyword": "형사변호사",
       "target_count": 20,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "부동산전문변호사",
+      "keyword": "법률상담",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-estate.com"],
-      "disabled": false
-    }, {
-      "keyword": "광주변호사",
-      "target_count": 20,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "상속전문변호사",
-      "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-inherit.com"],
-      "disabled": false
-    }, {
-      "keyword": "안양변호사",
-      "target_count": 20,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "인천형사변호사",
-      "target_count": 20,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "성범죄전문변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-assault.com"],
-      "disabled": false
-    }, {
-      "keyword": "교통사고변호사",
-      "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-traffic.com"],
-      "disabled": false
-    },{
-      "keyword": "교통사고전문변호사",
-      "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-traffic.com"],
-      "disabled": false
-    }, {
-      "keyword": "성범죄변호사",
-      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }]
