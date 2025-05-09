@@ -12,18 +12,8 @@
       "disabled": false
     }, {
       "keyword": "성범죄변호사",
-      "target_count": 5,
+      "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-assault.com"],
-      "disabled": false
-    }, {
-      "keyword": "학교폭력변호사",
-      "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-school.com/intro"],
-      "disabled": false
-    }, {
-      "keyword": "민사변호사",
-      "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-compensation.com/lawyer"],
       "disabled": false
     }, {
       "keyword": "마약변호사",
@@ -49,6 +39,11 @@
       "keyword": "이혼전문변호사",
       "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
+      "disabled": false
+    }, {
+      "keyword": "성범죄전문변호사",
+      "target_count": 15,
+      "target_urls": ["https://www.daeryunlaw-assault.com"],
       "disabled": false
     }, {
       "keyword": "법률상담",
