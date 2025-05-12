@@ -30,6 +30,16 @@
       "target_count": 110,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
+    }, {
+      "keyword": "부동산전문변호사",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "상속전문변호사",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
     },  {
       "keyword": "형사전문변호사",
       "target_count": 30,
