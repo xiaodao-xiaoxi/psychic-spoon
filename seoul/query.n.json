@@ -30,6 +30,21 @@
       "target_count": 90,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
+    }, {
+      "keyword": "음주운전전문변호사",
+      "target_count": 7,
+      "target_urls": ["https://www.daeryunlaw-traffic.com"],
+      "disabled": false
+    }, {
+      "keyword": "교통사고전문변호사",
+      "target_count": 7,
+      "target_urls": ["https://www.daeryunlaw-traffic.com"],
+      "disabled": false
+    }, {
+      "keyword": "부동산전문변호사",
+      "target_count": 10,
+      "target_urls": [],
+      "disabled": false
     },  {
       "keyword": "형사전문변호사",
       "target_count": 30,
