@@ -6,9 +6,14 @@
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
-      "keyword": "공직선거법",
-      "target_count": 10,
+      "keyword": "공직선거법위반",
+      "target_count": 5,
       "target_urls": ["https://www.daeryunlaw-detective.com/field_new/1694"],
+      "disabled": false
+    }, {
+      "keyword": "세무조사",
+      "target_count": 5,
+      "target_urls": ["https://www.daeryunlaw-tax.com/lawInfo_new/3735"],
       "disabled": false
     }, {
       "keyword": "성범죄변호사",
