@@ -17,7 +17,7 @@
       "disabled": false
     },  {
       "keyword": "형사전문변호사",
-      "target_count": 90,
+      "target_count": 85,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
@@ -37,12 +37,12 @@
       "disabled": false
     }, {
       "keyword": "성범죄전문변호사",
-      "target_count": 25,
+      "target_count": 35,
       "target_urls": ["https://www.daeryunlaw-assault.com"],
       "disabled": false
     },  {
       "keyword": "형사전문변호사",
-      "target_count": 30,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw.com"],
       "disabled": false
     }, {
