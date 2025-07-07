@@ -16,9 +16,14 @@
       "target_urls": ["https://www.daeryunlaw-assault.com"],
       "disabled": false
     }, {
-      "keyword": "성범죄변호사",
-      "target_count": 15,
-      "target_urls": ["https://www.daeryunlaw-assault.com"],
+      "keyword": "학폭변호사",
+      "target_count": 12,
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "학교폭력변호사",
+      "target_count": 13,
+      "target_urls": [],
       "disabled": false
     },  {
       "keyword": "형사변호사",
@@ -41,9 +46,9 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "부동산변호사",
+      "keyword": "산재전문변호사",
       "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-estate.com"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "상속전문변호사",
