@@ -26,14 +26,14 @@
       "target_urls": ["https://www.daeryunlaw-assault.com"],
       "disabled": false
     }, {
-      "keyword": "성범죄변호사",
-      "target_count": 15,
-      "target_urls": ["https://www.daeryunlaw-assault.com"],
+      "keyword": "학폭변호사",
+      "target_count": 5,
+      "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "공직선거법위반",
+      "keyword": "학교폭력변호사",
       "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-detective.com/field_new/1694"],
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "세무조사",
@@ -41,34 +41,19 @@
       "target_urls": ["https://www.daeryunlaw-tax.com/lawInfo_new/3735"],
       "disabled": false
     }, {
-      "keyword": "부산변호사",
-      "target_count": 10,
-      "target_urls": ["https://yeonje.daeryunlaw.com"],
-      "disabled": false
-    }, {
       "keyword": "인천변호사",
-      "target_count": 10,
+      "target_count": 15,
       "target_urls": ["https://incheon.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "대전변호사",
-      "target_count": 3,
-      "target_urls": ["https://daejeon.daeryunlaw.com"],
-      "disabled": false
-    }, {
       "keyword": "전주변호사",
-      "target_count": 3,
+      "target_count": 5,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "목포변호사",
+      "keyword": "진주변호사",
       "target_count": 5,
-      "target_urls": ["https://mokpo.daeryunlaw.com"],
-      "disabled": false
-    }, {
-      "keyword": "제주변호사",
-      "target_count": 3,
-      "target_urls": ["https://jeju.daeryunlaw.com"],
+      "target_urls": [],
       "disabled": false
     },  {
       "keyword": "법률상담",
