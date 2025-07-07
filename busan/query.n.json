@@ -11,34 +11,24 @@
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
-      "keyword": "부산변호사",
+      "keyword": "부산이혼변호사",
       "target_count": 5,
-      "target_urls": ["https://yeonje.daeryunlaw.com"],
+      "target_urls": ["],
       "disabled": false
     }, {
       "keyword": "인천변호사",
-      "target_count": 5,
+      "target_count": 10,
       "target_urls": ["https://incheon.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "대전변호사",
-      "target_count": 5,
-      "target_urls": ["https://daejeon.daeryunlaw.com"],
-      "disabled": false
-    }, {
-      "keyword": "전주변호사",
+      "keyword": "일산변호사",
       "target_count": 5,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "목포변호사",
+      "keyword": "창원변호사",
       "target_count": 5,
-      "target_urls": ["https://mokpo.daeryunlaw.com"],
-      "disabled": false
-    }, {
-      "keyword": "제주변호사",
-      "target_count": 5,
-      "target_urls": ["https://jeju.daeryunlaw.com"],
+      "target_urls": [],
       "disabled": false
     },  {
       "keyword": "이혼변호사",
@@ -71,8 +61,8 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "부동산전문변호사",
-      "target_count": 20,
+      "keyword": "산재전문변호사",
+      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
