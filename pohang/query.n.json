@@ -6,11 +6,6 @@
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     },  {
-      "keyword": "이혼변호사",
-      "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw.com"],
-      "disabled": false
-    },  {
       "keyword": "형사전문변호사",
       "target_count": 95,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
