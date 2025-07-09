@@ -7,7 +7,7 @@
       "disabled": false
     },  {
       "keyword": "이혼전문변호사",
-      "target_count": 100,
+      "target_count": 90,
       "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }, {
@@ -36,7 +36,7 @@
       "disabled": false
     }, {
       "keyword": "성범죄전문변호사",
-      "target_count": 35,
+      "target_count": 50,
       "target_urls": [],
       "disabled": false
     }, {
