@@ -2,82 +2,22 @@
     "max_page_count": 9,
     "work": [{
       "keyword": "형사변호사",
-      "target_count": 20,
+      "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
-      "disabled": false
-    }, {
-      "keyword": "부동산전문변호사",
-      "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-estate.com"],
-      "disabled": false
-    }, {
-      "keyword": "세무조사",
-      "target_count": 5,
-      "target_urls": ["https://www.daeryunlaw-tax.com/lawInfo_new/3735"],
-      "disabled": false
-    }, {
-      "keyword": "학폭변호사",
-      "target_count": 12,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "학교폭력변호사",
-      "target_count": 13,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "산재전문변호사",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "상속전문변호사",
-      "target_count": 20,
-      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "형사전문변호사",
       "target_count": 60,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
-    },  {
+    }, {
       "keyword": "이혼전문변호사",
       "target_count": 30,
-      "target_urls": ["https://www.daeryunlaw-divorce.com"],
-      "disabled": false
-    }, {
-      "keyword": "성범죄전문변호사",
-      "target_count": 45,
-      "target_urls": ["https://www.daeryunlaw-assault.com"],
-      "disabled": false
-    }, {
-      "keyword": "부산변호사",
-      "target_count": 5,
-      "target_urls": ["https://yeonje.daeryunlaw.com"],
-      "disabled": false
-    }, {
-      "keyword": "인천변호사",
-      "target_count": 10,
-      "target_urls": ["https://incheon.daeryunlaw.com"],
-      "disabled": false
-    }, {
-      "keyword": "대전변호사",
-      "target_count": 5,
-      "target_urls": ["https://daejeon.daeryunlaw.com"],
-      "disabled": false
-    }, {
-      "keyword": "전주변호사",
-      "target_count": 10,
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "제주변호사",
-      "target_count": 5,
-      "target_urls": ["https://jeju.daeryunlaw.com"],
-      "disabled": false
-    }, {
-      "keyword": "법률상담",
-      "target_count": 50,
+      "keyword": "성범죄전문변호사",
+      "target_count": 60,
       "target_urls": [],
       "disabled": false
     }]
