@@ -8,7 +8,12 @@
     }, {
       "keyword": "형사전문변호사",
       "target_count": 60,
-      "target_urls": ["https://www.daeryunlaw-detective.com"],
+      "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "음주운전변호사",
+      "target_count": 20,
+      "target_urls": [],
       "disabled": false
     }, {
       "keyword": "이혼전문변호사",
