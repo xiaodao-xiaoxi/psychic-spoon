@@ -41,27 +41,12 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "학폭변호사",
-      "target_count": 12,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "학교폭력변호사",
-      "target_count": 13,
-      "target_urls": [],
-      "disabled": false
-    }, {
       "keyword": "인천변호사",
       "target_count": 10,
       "target_urls": ["https://incheon.daeryunlaw.com"],
       "disabled": false
     }, {
-      "keyword": "대전변호사",
-      "target_count": 5,
-      "target_urls": ["https://daejeon.daeryunlaw.com"],
-      "disabled": false
-    }, {
-      "keyword": "전주변호사",
+      "keyword": "창원변호사",
       "target_count": 10,
       "target_urls": [],
       "disabled": false
