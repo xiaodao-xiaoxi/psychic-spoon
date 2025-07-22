@@ -25,16 +25,6 @@
       "target_count": 10,
       "target_urls": [],
     }, {
-      "keyword": "학폭변호사",
-      "target_count": 12,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "학교폭력변호사",
-      "target_count": 20,
-      "target_urls": [],
-      "disabled": false
-    }, {
       "keyword": "성범죄전문변호사",
       "target_count": 50,
       "target_urls": [],
@@ -55,27 +45,12 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
-      "keyword": "일산변호사",
-      "target_count": 5,
-      "target_urls": [],
-      "disabled": false
-    }, {
       "keyword": "인천변호사",
-      "target_count": 5,
-      "target_urls": ["https://incheon.daeryunlaw.com"],
-      "disabled": false
-    }, {
-      "keyword": "창원변호사",
       "target_count": 5,
       "target_urls": [],
       "disabled": false
     }, {
       "keyword": "전주변호사",
-      "target_count": 10,
-      "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "부천변호사",
       "target_count": 5,
       "target_urls": [],
       "disabled": false
