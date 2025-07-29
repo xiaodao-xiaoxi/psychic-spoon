@@ -13,12 +13,12 @@
     }, {
       "keyword": "음주운전전문변호사",
       "target_count": 25,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
       "keyword": "성범죄전문변호사",
       "target_count": 40,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-assault.com"],
       "disabled": false
     }]
   }
