@@ -10,15 +10,15 @@
       "target_count": 30,
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
-    },  {
-      "keyword": "이혼전문변호사",
-      "target_count": 90,
-      "target_urls": ["https://www.daeryunlaw-divorce.com"],
-      "disabled": false
     }, {
       "keyword": "성범죄전문변호사",
       "target_count": 50,
       "target_urls": ["https://www.daeryunlaw-assault.com"],
+      "disabled": false
+    }, {
+      "keyword": "이혼전문변호사",
+      "target_count": 90,
+      "target_urls": ["https://www.daeryunlaw-divorce.com"],
       "disabled": false
     }]
   }
