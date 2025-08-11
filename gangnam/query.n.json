@@ -8,7 +8,7 @@
     }, {
       "keyword": "음주운전전문변호사",
       "target_count": 20,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
       "keyword": "마약전문변호사",
@@ -24,6 +24,11 @@
       "keyword": "성범죄변호사",
       "target_count": 50,
       "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "산재전문변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-labor.com"],
       "disabled": false
     }]
   }
