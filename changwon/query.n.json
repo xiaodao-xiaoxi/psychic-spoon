@@ -22,8 +22,13 @@
       "disabled": false
     }, {
       "keyword": "성범죄전문변호사",
-      "target_count": 50,
+      "target_count": 30,
       "target_urls": [],
+      "disabled": false
+    }, {
+      "keyword": "의료변호사",
+      "target_count": 30,
+      "target_urls": ["https://www.daeryunlaw-medical.com"],
       "disabled": false
     }]
   }
