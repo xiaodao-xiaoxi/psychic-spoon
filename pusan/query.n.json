@@ -16,9 +16,9 @@
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
-      "keyword": "의료변호사",
+      "keyword": "부동산변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-medical.com"],
+      "target_urls": ["https://www.daeryunlaw-estate.com"],
       "disabled": false
     }]
   }
