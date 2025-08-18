@@ -7,7 +7,7 @@
       "disabled": false
     },  {
       "keyword": "형사전문변호사",
-      "target_count": 50,
+      "target_count": 65,
       "target_urls": ["https://www.daeryunlaw-detective.com"],
       "disabled": false
     }, {
@@ -24,11 +24,6 @@
       "keyword": "성범죄전문변호사",
       "target_count": 30,
       "target_urls": [],
-      "disabled": false
-    }, {
-      "keyword": "법인회생",
-      "target_count": 15,
-      "target_urls": ["https://www.daeryunlaw-regener.com"],
       "disabled": false
     }]
   }
