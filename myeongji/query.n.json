@@ -26,9 +26,9 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "부동산전문변호사",
+      "keyword": "금융전문변호사",
       "target_count": 15,
-      "target_urls": ["https://www.daeryunlaw-estate.com"],
+      "target_urls": ["https://www.daeryunlaw-finance.com"],
       "disabled": false
     }]
   }
