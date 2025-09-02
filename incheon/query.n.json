@@ -26,9 +26,9 @@
       "target_urls": [],
       "disabled": false
     }, {
-      "keyword": "금융전문변호사",
+      "keyword": "산재전문변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-finance.com"],
+      "target_urls": ["https://www.daeryunlaw-labor.com"],
       "disabled": false
     }]
   }
