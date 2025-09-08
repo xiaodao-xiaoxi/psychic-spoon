@@ -21,9 +21,9 @@
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
-      "keyword": "교통사고전문변호사",
+      "keyword": "군전문변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-traffic.com"],
+      "target_urls": ["https://www.daeryunlaw-military.com"],
       "disabled": false
     }]
   }
