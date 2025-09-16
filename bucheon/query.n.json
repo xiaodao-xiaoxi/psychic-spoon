@@ -25,6 +25,11 @@
       "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-military.com"],
       "disabled": false
+    } {
+      "keyword": "산재전문변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-labor.com"],
+      "disabled": false
     }]
   }
 
