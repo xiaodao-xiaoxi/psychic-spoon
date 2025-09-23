@@ -26,9 +26,9 @@
       "target_urls": ["https://www.daeryunlaw-assault.com"],
       "disabled": false
     }, {
-      "keyword": "산재전문변호사",
+      "keyword": "교통사고전문변호사",
       "target_count": 10,
-      "target_urls": ["https://www.daeryunlaw-labor.com"],
+      "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }]
   }
