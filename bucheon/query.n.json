@@ -7,7 +7,7 @@
       "disabled": false
     }, {
       "keyword": "성범죄전문변호사",
-      "target_count": 25,
+      "target_count": 40,
       "target_urls": ["https://www.daeryunlaw-assault.com"],
       "disabled": false
     },  {
@@ -17,13 +17,18 @@
       "disabled": false
     },  {
       "keyword": "마약전문변호사",
-      "target_count": 40,
+      "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
       "keyword": "군전문변호사",
       "target_count": 20,
       "target_urls": ["https://www.daeryunlaw-military.com"],
+      "disabled": false
+    }, {
+      "keyword": "노동전문변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-labor.com"],
       "disabled": false
     }, {
       "keyword": "교통사고전문변호사",
