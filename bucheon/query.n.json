@@ -21,9 +21,19 @@
       "target_urls": ["https://www.daeryunlaw-drug.com"],
       "disabled": false
     }, {
-      "keyword": "군전문변호사",
+      "keyword": "관세변호사",
       "target_count": 20,
-      "target_urls": ["https://www.daeryunlaw-military.com"],
+      "target_urls": ["https://www.daeryunlaw-international.com"],
+      "disabled": false
+    }, {
+      "keyword": "성범죄변호사",
+      "target_count": 20,
+      "target_urls": ["https://www.daeryunlaw-assault.com"],
+      "disabled": false
+    }, {
+      "keyword": "학폭변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-school.com/intro"],
       "disabled": false
     }, {
       "keyword": "노동전문변호사",
