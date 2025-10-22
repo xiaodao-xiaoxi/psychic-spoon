@@ -21,6 +21,16 @@
       "target_urls": ["https://www.daeryunlaw-traffic.com"],
       "disabled": false
     }, {
+      "keyword": "성범죄변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-assault.com"],
+      "disabled": false
+    }, {
+      "keyword": "관세변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-international.com"],
+      "disabled": false
+    }, {
       "keyword": "노동전문변호사",
       "target_count": 15,
       "target_urls": ["https://www.daeryunlaw-labor.com/intro"],
