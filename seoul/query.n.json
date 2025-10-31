@@ -31,6 +31,11 @@
       "target_urls": ["https://www.daeryunlaw-assault.com"],
       "disabled": false
     }, {
+      "keyword": "군전문변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-military.com"],
+      "disabled": false
+    }, {
       "keyword": "관세변호사",
       "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-international.com"],
