@@ -38,7 +38,17 @@
     }, {
       "keyword": "노동전문변호사",
       "target_count": 20,
-      "target_urls": [],
+      "target_urls": ["https://www.daeryunlaw-labor.com"],
+      "disabled": false
+    }, {
+      "keyword": "음주운전변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-traffic.com"],
+      "disabled": false
+    }, {
+      "keyword": "학폭변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-school.com"],
       "disabled": false
     }, {
       "keyword": "교통사고전문변호사",
