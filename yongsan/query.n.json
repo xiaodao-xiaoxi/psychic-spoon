@@ -17,8 +17,13 @@
       "disabled": false
     }, {
       "keyword": "마약변호사",
-      "target_count": 20,
+      "target_count": 10,
       "target_urls": ["https://www.daeryunlaw-drug.com"],
+      "disabled": false
+    }, {
+      "keyword": "마약전문변호사",
+      "target_count": 10,
+      "target_urls": ["https://www.daeryunlaw-drug.com/lawyer"],
       "disabled": false
     }, {
       "keyword": "성범죄변호사",
